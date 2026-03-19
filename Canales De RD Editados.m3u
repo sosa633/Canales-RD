@@ -554,8 +554,73 @@ https://mlb.essastream.com:8081/xtratv/index.m3u8
 #EXTINF:-1 tvg-id="XtremoChannel.do@SD" tvg-logo="https://i.imgur.com/bvPh0Uq.png" group-title="General",Xtremo Channel (720p) [Geo-blocked]
 https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZincNombreTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3751-294x165-FFFFFF.jpg" group-title="General",Zinc Nombre TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ZincNombreTV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3751-294x165-FFFFFF.jpg" group-title="General",ZincTV
 https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZonavisionTV.do@SD" tvg-logo="https://imgur.com/B3PrrMH.png" group-title="General",Zonavision TV [Not 24/7]
+#EXTINF:-1 tvg-id="ZonavisionTV" tvg-logo="https://imgur.com/B3PrrMH.png" group-title="General",Zonavision TV
 https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
+
+#EXTM3U
+#EXTINF:102, Adn 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
+#EXTINF:48, Canal 57 Usa
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+#EXTINF:1800, DW Espa ol  DE
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
+#EXTINF:120, Imagen tv
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+#EXTINF:36, RT Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:28, TDTV COSTARICA
+https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
+#EXTINF:60, Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:60, Telemundo 2
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:60, Univision 24-7
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+#EXTINF:60,AMO MI PLANETA
+https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/1080p/index.m3u8
+#EXTINF:60,Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:60, BEIN SPORTS ESPA OL
+https://bein-esp-xumo.amagi.tv:443/playlistR720P.m3u8
+#EXTINF:0,CGTN ES HD
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:0,DRAGON BALL Z
+https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
+#EXTINF:0,DW ESPA OL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0,Estrella tv
+https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
+#EXTINF:0,EXTREMA TV
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w604585084.m3u8
+#EXTINF:0,EXTREMA TV
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
+#EXTINF:0,FIFA plus
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:0,LOS PITUFOS
+https://jmp2.uk/stvp-ESBD130000205
+#EXTINF:0,Los Simpson
+http://186.0.248.95:20202/Live/92a992ec67f43100bd7e9c14622b9190/online-24-7_480.m3u8
+#EXTINF:0,Noricias Telemundo Ahora
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+#EXTINF:0,Novelas en español
+https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,RCN NOVELAS
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:0,RETRO PLUS TV
+https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1872059197.m3u8
+#EXTINF:0,RT ESPA OL
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:0,SONI CINE
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:0,TELEMUNDO ACCION
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+#EXTINF:83,UNIMAS
+https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
+#EXTINF:0,URBANO TV
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/chunklist_w1439682715.m3u8
+#EXTINF:0,VTV Honduras
+https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
+
