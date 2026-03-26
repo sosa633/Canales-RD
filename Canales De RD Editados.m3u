@@ -24,10 +24,10 @@ http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
 https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 
 
-#EXTINF:-1 tvg-id="TVO.do@SD" tvg-logo="https://i.imgur.com/MhloaFB.png" group-title="General",TVO LA ROMANA
+#EXTINF:-1 tvg-id="TVO La Romana.do@SD" tvg-logo="https://i.imgur.com/MhloaFB.png" group-title="General",TVO LA ROMANA
 https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/index.m3u8
 
-#EXTINF:-1 tvg-id="CanaTVDigital.do@SD" tvg-logo="https://i.imgur.com/k8jxt12.png" group-title="General",CAÑA TV LA ROMANA
+#EXTINF:-1 tvg-id="CañaTVDigital.do@SD" tvg-logo="https://i.imgur.com/k8jxt12.png" group-title="General",CAÑA TV LA ROMANA
 https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
 
 #EXTINF:0,MAKINA TV LA ROMANA
@@ -512,7 +512,7 @@ https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 #EXTINF:-1 tvg-id="TVLuz.do@SD" tvg-logo="https://i.imgur.com/FZUQ2WP.png" group-title="Religious",TV Luz (480p)
 https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8
 
-#EXTINF:-1 tvg-id="TVMontanaCanal10.do@SD" tvg-logo="https://i.imgur.com/DHyRWc0.png" group-title="General",TV Montana Canal 10 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVMontañaCanal10.do@SD" tvg-logo="https://i.imgur.com/DHyRWc0.png" group-title="General",TV Montana Canal 10 (1080p) [Not 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPlata.do@SD" tvg-logo="https://i.imgur.com/r3urUnn.png" group-title="General",TV Plata (720p) [Geo-blocked]
@@ -563,9 +563,9 @@ https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
 #EXTM3U
 #EXTINF:102, Adn 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
-#EXTINF:48, Canal 57 Usa
+#EXTINF:48, Canal 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
-#EXTINF:1800, DW Espa ol  DE
+#EXTINF:1800, DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
 #EXTINF:120, Imagen tv
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
@@ -583,13 +583,13 @@ https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/1080p/index.m3u8
 #EXTINF:60,Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:60, BEIN SPORTS ESPA OL
+#EXTINF:60, BEIN SPORTS
 https://bein-esp-xumo.amagi.tv:443/playlistR720P.m3u8
 #EXTINF:0,CGTN ES HD
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:0,DRAGON BALL Z
 https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
-#EXTINF:0,DW ESPA OL
+#EXTINF:0,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:0,Estrella tv
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
@@ -603,15 +603,15 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://jmp2.uk/stvp-ESBD130000205
 #EXTINF:0,Los Simpson
 http://186.0.248.95:20202/Live/92a992ec67f43100bd7e9c14622b9190/online-24-7_480.m3u8
-#EXTINF:0,Noricias Telemundo Ahora
+#EXTINF:0,Noticias Telemundo Ahora
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 #EXTINF:0,Novelas en español
 https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0,RCN NOVELAS
+#EXTINF:0,RCN
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0,RETRO PLUS TV
 https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1872059197.m3u8
-#EXTINF:0,RT ESPA OL
+#EXTINF:0,RT Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:0,SONI CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
@@ -621,6 +621,4 @@ https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
 #EXTINF:0,URBANO TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/chunklist_w1439682715.m3u8
-#EXTINF:0,VTV Honduras
-https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
