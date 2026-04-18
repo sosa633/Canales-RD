@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i0.wp.com/adoramtv.org/wp-content/uploads/2023/10/logo-adoram-tv-video_Mesa-de-trabajo-1.png?fit=4026%2C4500&ssl=1",Adoram TV RD
-https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg" group-title="Entertainment",Aguacate TV
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3770-294x165-FFFFFF.jpg" group-title="Entertainment",Aguila TV RD
