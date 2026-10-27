@@ -852,6 +852,10 @@ https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-name="Tastemade TV" tvg-country="US" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="ESTADOS UNIDOS | Entretenimiento",Tastemade TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TLCLatinAmerica.us@Panregional" tvg-name="TLC Latin America" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="ESTADOS UNIDOS | Entretenimiento",TLC Latin America
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
