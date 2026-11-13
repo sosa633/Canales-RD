@@ -1,713 +1,761 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Boreal.do@SD" tvg-name="Boreal" tvg-country="DO" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="REP. DOMINICANA | Cine",Boreal
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SantaCruzTV.do" tvg-name="Canal 8 El Seibo" tvg-country="DO" tvg-logo="https://santacruztv8.com/assets/images/logo.png" group-title="REP. DOMINICANA | Cine",Canal 8 El Seibo
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://host.streamingnation.live/p/3345/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="MegaCineTV.do" tvg-name="Mega Cine TV RD" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="REP. DOMINICANA | Cine",Mega Cine TV RD
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal17RTVD.do@HD" tvg-name="Canal 17 RTVD" tvg-country="DO" tvg-logo="https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png" group-title="REP. DOMINICANA | Cultura",Canal 17 RTVD
+#EXTINF:-1 tvg-id="Canal17RTVD.do@HD" tvg-name="Canal 17 RTVD" tvg-country="DO" tvg-logo="https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png" group-title="DOMINICAN REPUBLIC | Culture",Canal 17 RTVD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8
-#EXTINF:-1 tvg-id="GuaymateTV.do" tvg-name="Guaymate TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/PBgQi9a.png" group-title="REP. DOMINICANA | Cultura",Guaymate TV RD
+#EXTINF:-1 tvg-id="GuaymateTV.do" tvg-name="Guaymate TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/PBgQi9a.png" group-title="DOMINICAN REPUBLIC | Culture",Guaymate TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
-#EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-name="CDN Deportes" tvg-country="DO" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="REP. DOMINICANA | Deportes",CDN Deportes
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://hls.tvabierta.net/hls/036.m3u8
-#EXTINF:-1 tvg-id="ColimdoTV.do" tvg-name="Colimdo TV" tvg-country="DO" tvg-logo="https://i.imgur.com/ZeUgLCa.png" group-title="REP. DOMINICANA | Deportes",Colimdo TV
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
-#EXTINF:-1 tvg-id="Ecovision.do" tvg-name="Ecovisión RD" tvg-country="DO" tvg-logo="https://grupomediosdelnorte.com/wp-content/uploads/2023/12/ECO3.png" group-title="REP. DOMINICANA | Documentales",Ecovisión RD
+#EXTINF:-1 tvg-id="Ecovision.do" tvg-name="Ecovisión RD" tvg-country="DO" tvg-logo="https://grupomediosdelnorte.com/wp-content/uploads/2023/12/ECO3.png" group-title="DOMINICAN REPUBLIC | Documentary",Ecovisión RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
-#EXTINF:-1 tvg-id="AlegreTVRD.do@SD" tvg-name="Alegre TV" tvg-country="DO" tvg-logo="https://i.imgur.com/O6USO8r.png" group-title="REP. DOMINICANA | Entretenimiento",Alegre TV
+#EXTINF:-1 tvg-id="AlegreTVRD.do@SD" tvg-name="Alegre TV" tvg-country="DO" tvg-logo="https://i.imgur.com/O6USO8r.png" group-title="DOMINICAN REPUBLIC | Entertainment",Alegre TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://streamunoapp.com:3149/live/alegretvlive.m3u8
-#EXTINF:-1 tvg-id="Ame47.do" tvg-name="Ame 47 RD" tvg-country="DO" tvg-logo="https://i.imgur.com/MUEbjeP.png" group-title="REP. DOMINICANA | Entretenimiento",Ame 47 RD
+#EXTINF:-1 tvg-id="Ame47.do" tvg-name="Ame 47 RD" tvg-country="DO" tvg-logo="https://i.imgur.com/MUEbjeP.png" group-title="DOMINICAN REPUBLIC | Entertainment",Ame 47 RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
-#EXTINF:-1 tvg-id="BocaChicaTV.do" tvg-name="Boca Chica TV" tvg-country="DO" tvg-logo="https://i.imgur.com/npiRBPC.png" group-title="REP. DOMINICANA | Entretenimiento",Boca Chica TV
+#EXTINF:-1 tvg-id="BocaChicaTV.do" tvg-name="Boca Chica TV" tvg-country="DO" tvg-logo="https://i.imgur.com/npiRBPC.png" group-title="DOMINICAN REPUBLIC | Entertainment",Boca Chica TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://stream.mux.com/sx3k7UftkLkZlkODt9yWdkupt4TFZ3tBoHCP6RaQeYU.m3u8?redundant_streams=true
-#EXTINF:-1 tvg-id="BonchesLatinosTV.do" tvg-name="Bonches Latinos RD" tvg-country="DO" tvg-logo="https://i.imgur.com/Kp8x0NS.png" group-title="REP. DOMINICANA | Entretenimiento",Bonches Latinos RD
+#EXTINF:-1 tvg-id="BonchesLatinosTV.do" tvg-name="Bonches Latinos RD" tvg-country="DO" tvg-logo="https://i.imgur.com/Kp8x0NS.png" group-title="DOMINICAN REPUBLIC | Entertainment",Bonches Latinos RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalDTV.do" tvg-name="Canal DTV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/JO5yuNC.png" group-title="REP. DOMINICANA | Entretenimiento",Canal DTV RD
+#EXTINF:-1 tvg-id="CanalDTV.do" tvg-name="Canal DTV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/JO5yuNC.png" group-title="DOMINICAN REPUBLIC | Entertainment",Canal DTV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://s.emisoras.tv:8081/dtv/index.m3u8
-#EXTINF:-1 tvg-id="CanangaTV.do" tvg-name="Cananga TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/isXlMAh.png" group-title="REP. DOMINICANA | Entretenimiento",Cananga TV RD
+#EXTINF:-1 tvg-id="CanangaTV.do" tvg-name="Cananga TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/isXlMAh.png" group-title="DOMINICAN REPUBLIC | Entertainment",Cananga TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
-#EXTINF:-1 tvg-id="CaobaTVRadio.do" tvg-name="Caoba TV RD" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3906-294x165-FFFFFF.jpg" group-title="REP. DOMINICANA | Entretenimiento",Caoba TV RD
+#EXTINF:-1 tvg-id="CaobaTVRadio.do" tvg-name="Caoba TV RD" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3906-294x165-FFFFFF.jpg" group-title="DOMINICAN REPUBLIC | Entertainment",Caoba TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://host.streamingnation.live:3940/live/caobatvlive.m3u8
-#EXTINF:-1 tvg-id="CascaraTV.do" tvg-name="Cascara TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="REP. DOMINICANA | Entretenimiento",Cascara TV RD
+#EXTINF:-1 tvg-id="CascaraTV.do" tvg-name="Cascara TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="DOMINICAN REPUBLIC | Entertainment",Cascara TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
-#EXTINF:-1 tvg-id="CibaenaTV.do" tvg-name="Cibaeña TV" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2986-294x165-FFFFFF.jpg" group-title="REP. DOMINICANA | Entretenimiento",Cibaeña TV
+#EXTINF:-1 tvg-id="CibaenaTV.do" tvg-name="Cibaeña TV" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2986-294x165-FFFFFF.jpg" group-title="DOMINICAN REPUBLIC | Entertainment",Cibaeña TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
-#EXTINF:-1 tvg-id="ClaroTelevisionDominicana.do" tvg-name="Claro Televisión" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThksOuwgBS18BqW24khIVu30Pm4_yH-Gfd4SF0OLLElQ&s=10" group-title="REP. DOMINICANA | Entretenimiento",Claro Televisión
+#EXTINF:-1 tvg-id="ClaroTelevisionDominicana.do" tvg-name="Claro Televisión" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThksOuwgBS18BqW24khIVu30Pm4_yH-Gfd4SF0OLLElQ&s=10" group-title="DOMINICAN REPUBLIC | Entertainment",Claro Televisión
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://streamunoapp.com:3960/live/claroteledomlive.m3u8
-#EXTINF:-1 tvg-id="ClaroVisionTV.do" tvg-name="Claro Visión RD" tvg-country="DO" tvg-logo="https://i.imgur.com/MpTgJMJ.png" group-title="REP. DOMINICANA | Entretenimiento",Claro Visión RD
+#EXTINF:-1 tvg-id="ClaroVisionTV.do" tvg-name="Claro Visión RD" tvg-country="DO" tvg-logo="https://i.imgur.com/MpTgJMJ.png" group-title="DOMINICAN REPUBLIC | Entertainment",Claro Visión RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
-#EXTINF:-1 tvg-id="COCOTV.do@SD" tvg-name="COCO TV" tvg-country="DO" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="REP. DOMINICANA | Entretenimiento",COCO TV
+#EXTINF:-1 tvg-id="COCOTV.do@SD" tvg-name="COCO TV" tvg-country="DO" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="DOMINICAN REPUBLIC | Entertainment",COCO TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://edge.essastream.com/canalcocotv/playlist.m3u8
-#EXTINF:-1 tvg-id="ColomeTV.do" tvg-name="Colome TV RD" tvg-country="DO" tvg-logo="https://colometv.com/assets/images/logo.png" group-title="REP. DOMINICANA | Entretenimiento",Colome TV RD
+#EXTINF:-1 tvg-id="ColomeTV.do" tvg-name="Colome TV RD" tvg-country="DO" tvg-logo="https://colometv.com/assets/images/logo.png" group-title="DOMINICAN REPUBLIC | Entertainment",Colome TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
-#EXTINF:-1 tvg-id="CotubanamaTV.do" tvg-name="Cotubanama TV RD" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLRANaE2OvT1mSzYlUuk8Fl6X2QoXYnFS3paeKsMWovg&s" group-title="REP. DOMINICANA | Entretenimiento",Cotubanama TV RD
+#EXTINF:-1 tvg-id="CotubanamaTV.do" tvg-name="Cotubanama TV" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLRANaE2OvT1mSzYlUuk8Fl6X2QoXYnFS3paeKsMWovg&s" group-title="DOMINICAN REPUBLIC | Entertainment",Cotubanama TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://host.streamingnation.live/p/3588/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="GalaxiATeVe.do" tvg-name="Galaxia TV RD" tvg-country="DO" tvg-logo="https://grupomediosdelnorte.com/wp-content/uploads/2023/12/GALAXIA.png" group-title="REP. DOMINICANA | Entretenimiento",Galaxia TV RD
+#EXTINF:-1 tvg-id="GalaxiATeVe.do" tvg-name="Galaxia TV RD" tvg-country="DO" tvg-logo="https://grupomediosdelnorte.com/wp-content/uploads/2023/12/GALAXIA.png" group-title="DOMINICAN REPUBLIC | Entertainment",Galaxia TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
-#EXTINF:-1 tvg-id="GiTelevision.do" tvg-name="Gi Television RD" tvg-country="DO" tvg-logo="https://i.imgur.com/br9TNG8.png" group-title="REP. DOMINICANA | Entretenimiento",Gi Television RD
+#EXTINF:-1 tvg-id="GiTelevision.do" tvg-name="Gi Television RD" tvg-country="DO" tvg-logo="https://i.imgur.com/br9TNG8.png" group-title="DOMINICAN REPUBLIC | Entertainment",Gi Television RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8
-#EXTINF:-1 tvg-id="NitidaTV.do" tvg-name="Nitida TV" tvg-country="DO" tvg-logo="https://i.imgur.com/z9JkxcM.png" group-title="REP. DOMINICANA | Entretenimiento",Nitida TV
+#EXTINF:-1 tvg-id="JARABACOATV.do" tvg-name="JARABACOA TV" tvg-country="DO" tvg-logo="https://imgur.com/m9WCrlw.jpg" group-title="DOMINICAN REPUBLIC | Entertainment",JARABACOA TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NitidaTV.do" tvg-name="Nitida TV" tvg-country="DO" tvg-logo="https://i.imgur.com/z9JkxcM.png" group-title="DOMINICAN REPUBLIC | Entertainment",Nitida TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
-#EXTINF:-1 tvg-id="RETV.do" tvg-name="R&E TV" tvg-country="DO" tvg-logo="https://i.imgur.com/HpKQYp3.png" group-title="REP. DOMINICANA | Entretenimiento",R&E TV
+#EXTINF:-1 tvg-id="RETV.do" tvg-name="R&E TV" tvg-country="DO" tvg-logo="https://i.imgur.com/HpKQYp3.png" group-title="DOMINICAN REPUBLIC | Entertainment",R&E TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8
-#EXTINF:-1 tvg-id="TELESIGLO.do" tvg-name="Tele Siglo RD" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8tHcyjRyFp-F4gsxvWaP9_MRS5gGjDiZaXBVw5YVYiA&s=10" group-title="REP. DOMINICANA | Entretenimiento",Tele Siglo RD
+#EXTINF:-1 tvg-id="TELESIGLO.do" tvg-name="Tele Siglo RD" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8tHcyjRyFp-F4gsxvWaP9_MRS5gGjDiZaXBVw5YVYiA&s=10" group-title="DOMINICAN REPUBLIC | Entertainment",Tele Siglo RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Telemax.do" tvg-name="Telemax" tvg-country="DO" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="REP. DOMINICANA | Entretenimiento",Telemax
+#EXTINF:-1 tvg-id="Telemax.do" tvg-name="Telemax" tvg-country="DO" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="DOMINICAN REPUBLIC | Entertainment",Telemax
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TurismoHD.do" tvg-name="Turismo" tvg-country="DO" tvg-logo="https://gia.tv/streams/pptv/208343.jpg" group-title="REP. DOMINICANA | Entretenimiento",Turismo
+#EXTINF:-1 tvg-id="TurismoHD.do" tvg-name="Turismo" tvg-country="DO" tvg-logo="https://gia.tv/streams/pptv/208343.jpg" group-title="DOMINICAN REPUBLIC | Entertainment",Turismo
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
-#EXTINF:-1 tvg-id="TVS.do" tvg-name="TVS RD" tvg-country="DO" tvg-logo="https://i.imgur.com/a2YX1oj.jpg" group-title="REP. DOMINICANA | Entretenimiento",TVS RD
+#EXTINF:-1 tvg-id="TVS.do" tvg-name="TVS RD" tvg-country="DO" tvg-logo="https://i.imgur.com/a2YX1oj.jpg" group-title="DOMINICAN REPUBLIC | Entertainment",TVS RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://imagenuniversaltv.net:3741/live/tvslive.m3u8
-#EXTINF:-1 tvg-id="VisionNDV.do" tvg-name="Vision NDV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/4gj5NMa.png" group-title="REP. DOMINICANA | Entretenimiento",Vision NDV RD
+#EXTINF:-1 tvg-id="VisionNDV.do" tvg-name="Vision NDV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/4gj5NMa.png" group-title="DOMINICAN REPUBLIC | Entertainment",Vision NDV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://soportedvb.click:3891/live/visionndvlive.m3u8
-#EXTINF:-1 tvg-id="A7TV.do" tvg-name="A7 TV" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSomEdtFecb63u0O-R6s_CtqPJZzcpLx1xp5Lqw3hLsaQ&s=10" group-title="REP. DOMINICANA | General",A7 TV
+#EXTINF:-1 tvg-id="Yunavision.do" tvg-name="Yunavision" tvg-country="DO" tvg-logo="https://i.imgur.com/YjceEv5.png" group-title="DOMINICAN REPUBLIC | Entertainment",Yunavision
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8
+#EXTINF:-1 tvg-id="A7TV.do" tvg-name="A7 TV" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSomEdtFecb63u0O-R6s_CtqPJZzcpLx1xp5Lqw3hLsaQ&s=10" group-title="DOMINICAN REPUBLIC | General",A7 TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
-#EXTINF:-1 tvg-id="AhoraTV.do" tvg-name="Ahora TV" tvg-country="DO" tvg-logo="https://i.imgur.com/dyJyuXc.png" group-title="REP. DOMINICANA | General",Ahora TV
+#EXTINF:-1 tvg-id="AhoraTV.do" tvg-name="Ahora TV" tvg-country="DO" tvg-logo="https://i.imgur.com/dyJyuXc.png" group-title="DOMINICAN REPUBLIC | General",Ahora TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://stream.haislin.com/ahoratv/index.m3u8
-#EXTINF:-1 tvg-id="AIONTV.do@SD" tvg-name="AION TV" tvg-country="DO" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="REP. DOMINICANA | General",AION TV
+#EXTINF:-1 tvg-id="AIONTV.do@SD" tvg-name="AION TV" tvg-country="DO" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="DOMINICAN REPUBLIC | General",AION TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://edge.essastream.com/aiontelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="AlcarrizosTV.do" tvg-name="Alcarrizos TV" tvg-country="DO" tvg-logo="https://i.ibb.co/C3fdPYGs/Alcarrizo.jpg" group-title="REP. DOMINICANA | General",Alcarrizos TV
+#EXTINF:-1 tvg-id="AlcarrizosTV.do" tvg-name="Alcarrizos TV" tvg-country="DO" tvg-logo="https://i.ibb.co/C3fdPYGs/Alcarrizo.jpg" group-title="DOMINICAN REPUBLIC | General",Alcarrizos TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
-#EXTINF:-1 tvg-id="AltantoTV.do" tvg-name="Altanto TV" tvg-country="DO" tvg-logo="https://i.imgur.com/KWvVLhc.png" group-title="REP. DOMINICANA | General",Altanto TV
+#EXTINF:-1 tvg-id="AltantoTV.do" tvg-name="Altanto TV" tvg-country="DO" tvg-logo="https://i.imgur.com/KWvVLhc.png" group-title="DOMINICAN REPUBLIC | General",Altanto TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8
-#EXTINF:-1 tvg-id="BaniVision.do" tvg-name="Bani Vision" tvg-country="DO" tvg-logo="https://www.banivision.com/wp-content/uploads/2023/04/Bani-Vision-Favicon.png" group-title="REP. DOMINICANA | General",Bani Vision
+#EXTINF:-1 tvg-id="BaniVision.do" tvg-name="Bani Vision" tvg-country="DO" tvg-logo="https://www.banivision.com/wp-content/uploads/2023/04/Bani-Vision-Favicon.png" group-title="DOMINICAN REPUBLIC | General",Bani Vision
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8
-#EXTINF:-1 tvg-id="Canal4RD.do@SD" tvg-name="Canal 4 RD" tvg-country="DO" tvg-logo="https://i.imgur.com/3AqCAji.png" group-title="REP. DOMINICANA | General",Canal 4 RD
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ElSeis6.do" tvg-name="Canal 6 RD" tvg-country="DO" tvg-logo="https://elseis.do/img/logo-new-transparent.png" group-title="REP. DOMINICANA | General",Canal 6 RD
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://stream.elseis.do/canal6/live_1080.m3u8
-#EXTINF:-1 tvg-name="Canal 56 RD" tvg-country="DO" tvg-logo="https://i.imgur.com/HcLs5eM.png" group-title="REP. DOMINICANA | General",Canal 56 RD
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="CanalCatorce.do@SD" tvg-name="Canal Catorce" tvg-country="DO" tvg-logo="https://i.imgur.com/iKLGBbA.png" group-title="REP. DOMINICANA | General",Canal Catorce
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://stream.haislin.com/14tv/index.m3u8
-#EXTINF:-1 tvg-id="CanaldelSol.do" tvg-name="Canal Del Sol RD" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVXO-3eg7E9Hhz5neZqloScTDET5bJX2iFco2ROsvfaw&s" group-title="REP. DOMINICANA | General",Canal Del Sol RD
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://stream.canaldelsol.com/sol26/live_1080.m3u8
-#EXTINF:-1 tvg-id="CanalMultivision.do" tvg-name="Canal Multivision RD" tvg-country="DO" tvg-logo="https://i.imgur.com/puOrL7B.jpg" group-title="REP. DOMINICANA | General",Canal Multivision RD
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
-#EXTINF:-1 tvg-id="Canalda26HD.do" tvg-name="Canalda 26 RD" tvg-country="DO" tvg-logo="https://serenotv.com/wp-content/uploads/2025/06/Canal-Canalda-tv.jpg" group-title="REP. DOMINICANA | General",Canalda 26 RD
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://canalda.rgradio.net:3084/live/canaldalive.m3u8
-#EXTINF:-1 tvg-id="CanaTVDigital.do" tvg-name="Caña TV Digital" tvg-country="DO" tvg-logo="data:image/png;base64,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" group-title="REP. DOMINICANA | General",Caña TV Digital
+#EXTINF:-1 tvg-id="CanaTVDigital.do" tvg-name="Caña TV Digital" tvg-country="DO" tvg-logo="data:image/png;base64,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" group-title="DOMINICAN REPUBLIC | General",Caña TV Digital
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cdnfox.hostlagarto.com/canatvdigital/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CenovisionHD.do@HD" tvg-name="Cenovision" tvg-country="DO" tvg-logo="https://imgur.com/ShPaOvn.jpg" group-title="REP. DOMINICANA | General",Cenovision
+#EXTINF:-1 tvg-id="Canal4RD.do@SD" tvg-name="Canal 4 RD" tvg-country="DO" tvg-logo="https://i.imgur.com/3AqCAji.png" group-title="DOMINICAN REPUBLIC | General",Canal 4 RD
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ElSeis6.do" tvg-name="Canal 6 RD" tvg-country="DO" tvg-logo="https://elseis.do/img/logo-new-transparent.png" group-title="DOMINICAN REPUBLIC | General",Canal 6 RD
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://stream.elseis.do/canal6/live_1080.m3u8
+#EXTINF:-1 tvg-name="Canal 56 RD" tvg-country="DO" tvg-logo="https://i.imgur.com/HcLs5eM.png" group-title="DOMINICAN REPUBLIC | General",Canal 56 RD
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="CanalCatorce.do@SD" tvg-name="Canal Catorce" tvg-country="DO" tvg-logo="https://i.imgur.com/iKLGBbA.png" group-title="DOMINICAN REPUBLIC | General",Canal Catorce
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://stream.haislin.com/14tv/index.m3u8
+#EXTINF:-1 tvg-id="CanaldelSol.do" tvg-name="Canal Del Sol RD" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVXO-3eg7E9Hhz5neZqloScTDET5bJX2iFco2ROsvfaw&s" group-title="DOMINICAN REPUBLIC | General",Canal Del Sol RD
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://stream.canaldelsol.com/sol26/live_1080.m3u8
+#EXTINF:-1 tvg-id="CanalMultivision.do" tvg-name="Canal Multivision RD" tvg-country="DO" tvg-logo="https://i.imgur.com/puOrL7B.jpg" group-title="DOMINICAN REPUBLIC | General",Canal Multivision RD
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
+#EXTINF:-1 tvg-id="Canalda26HD.do" tvg-name="Canalda 26 RD" tvg-country="DO" tvg-logo="https://serenotv.com/wp-content/uploads/2025/06/Canal-Canalda-tv.jpg" group-title="DOMINICAN REPUBLIC | General",Canalda 26 RD
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://canalda.rgradio.net:3084/live/canaldalive.m3u8
+#EXTINF:-1 tvg-id="CenovisionHD.do@HD" tvg-name="Cenovision" tvg-country="DO" tvg-logo="https://imgur.com/ShPaOvn.jpg" group-title="DOMINICAN REPUBLIC | General",Cenovision
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8
-#EXTINF:-1 tvg-id="CinevisionCanal19.do" tvg-name="Cinevision Canal 19" tvg-country="DO" tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="REP. DOMINICANA | General",Cinevision Canal 19
+#EXTINF:-1 tvg-id="CinevisionCanal19.do" tvg-name="Cinevision Canal 19" tvg-country="DO" tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="DOMINICAN REPUBLIC | General",Cinevision Canal 19
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
-#EXTINF:-1 tvg-id="CNTMasTV.do" tvg-name="CNT Mas TV RD" tvg-country="DO" tvg-logo="https://dominicanchannels.com/wp-content/uploads/ctnmas.jpg" group-title="REP. DOMINICANA | General",CNT Mas TV RD
+#EXTINF:-1 tvg-id="CNTMasTV.do" tvg-name="CNT Mas TV RD" tvg-country="DO" tvg-logo="https://dominicanchannels.com/wp-content/uploads/ctnmas.jpg" group-title="DOMINICAN REPUBLIC | General",CNT Mas TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://edge.essastream.com/cntmas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CodigoTV.do" tvg-name="Codigo TV" tvg-country="DO" tvg-logo="https://imgur.com/DbjywI3.png" group-title="REP. DOMINICANA | General",Codigo TV
+#EXTINF:-1 tvg-id="CodigoTV.do" tvg-name="Codigo TV" tvg-country="DO" tvg-logo="https://imgur.com/DbjywI3.png" group-title="DOMINICAN REPUBLIC | General",Codigo TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://edge.essastream.com/codigotv/playlist.m3u8
-#EXTINF:-1 tvg-name="Color Vision RD" tvg-country="DO" tvg-logo="https://i.imgur.com/rkgWToA.jpg" group-title="REP. DOMINICANA | General",Color Vision RD
+#EXTINF:-1 tvg-name="Color Vision RD" tvg-country="DO" tvg-logo="https://i.imgur.com/rkgWToA.jpg" group-title="DOMINICAN REPUBLIC | General",Color Vision RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://hls.tvabierta.net/hls/009.m3u8
-#EXTINF:-1 tvg-id="ConstanzaTV.do" tvg-name="ConstanzaTV" tvg-country="DO" tvg-logo="https://i.imgur.com/4uV90gw.png" group-title="REP. DOMINICANA | General",ConstanzaTV
+#EXTINF:-1 tvg-id="ConstanzaTV.do" tvg-name="ConstanzaTV" tvg-country="DO" tvg-logo="https://i.imgur.com/4uV90gw.png" group-title="DOMINICAN REPUBLIC | General",ConstanzaTV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8
-#EXTINF:-1 tvg-id="CTTCanal49.do@SD" tvg-name="CTT Canal 49" tvg-country="DO" tvg-logo="https://i.imgur.com/jsi4qVb.jpg" group-title="REP. DOMINICANA | General",CTT Canal 49
+#EXTINF:-1 tvg-id="CTTCanal49.do@SD" tvg-name="CTT Canal 49" tvg-country="DO" tvg-logo="https://i.imgur.com/jsi4qVb.jpg" group-title="DOMINICAN REPUBLIC | General",CTT Canal 49
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cdnfox.hostlagarto.com/cct49/index.m3u8
-#EXTINF:-1 tvg-id="CVVisionTV.do" tvg-name="CV Vision RD" tvg-country="DO" tvg-logo="https://dominicanchannels.com/wp-content/uploads/ccviison-1.png" group-title="REP. DOMINICANA | General",CV Vision RD
+#EXTINF:-1 tvg-id="CVVisionTV.do" tvg-name="CV Vision RD" tvg-country="DO" tvg-logo="https://dominicanchannels.com/wp-content/uploads/ccviison-1.png" group-title="DOMINICAN REPUBLIC | General",CV Vision RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://eu1.servers10.com:8081/8128/index.m3u8
-#EXTINF:-1 tvg-id="Digital15.do" tvg-name="Digital 15 RD" tvg-country="DO" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="REP. DOMINICANA | General",Digital 15 RD
+#EXTINF:-1 tvg-id="DelPuebloTV.do" tvg-name="Del Pueblo TV RD" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8_1vJkg30U4uTSDwPYsqBnmD5bIeedJQYPNRt-4RRmIJ5gMxs" group-title="DOMINICAN REPUBLIC | General",Del Pueblo TV RD
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Digital15.do" tvg-name="Digital 15 RD" tvg-country="DO" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="DOMINICAN REPUBLIC | General",Digital 15 RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://ds.tvabierta.net/memfs/505f0d04-159c-4e4f-a834-8137c183573c_output_0.m3u8?session=DN6CjbwSquGGH5C8PMK8e4
-#EXTINF:-1 tvg-id="DigitalVision63.do@SD" tvg-name="Digital Vision" tvg-country="DO" tvg-logo="https://i.imgur.com/FQkLIMR.png" group-title="REP. DOMINICANA | General",Digital Vision
+#EXTINF:-1 tvg-id="DigitalVision63.do@SD" tvg-name="Digital Vision" tvg-country="DO" tvg-logo="https://i.imgur.com/FQkLIMR.png" group-title="DOMINICAN REPUBLIC | General",Digital Vision
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8
-#EXTINF:-1 tvg-id="EcosCanal57.do" tvg-name="Ecos Canal 57" tvg-country="DO" tvg-logo="https://imgur.com/ccFwraQ.png" group-title="REP. DOMINICANA | General",Ecos Canal 57
+#EXTINF:-1 tvg-id="EcosCanal57.do" tvg-name="Ecos Canal 57" tvg-country="DO" tvg-logo="https://imgur.com/ccFwraQ.png" group-title="DOMINICAN REPUBLIC | General",Ecos Canal 57
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8
-#EXTINF:-1 tvg-id="entelevision.do" tvg-name="entelevision" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdWsvUKSUu8qEBaYYjBz8dyGAFcRUJoxGriUtoXX9TyA&s=10" group-title="REP. DOMINICANA | General",entelevision
+#EXTINF:-1 tvg-id="entelevision.do" tvg-name="entelevision" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdWsvUKSUu8qEBaYYjBz8dyGAFcRUJoxGriUtoXX9TyA&s=10" group-title="DOMINICAN REPUBLIC | General",entelevision
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://stream.haislin.com/entelevision/index.m3u8
-#EXTINF:-1 tvg-id="EnterateRD.do" tvg-name="Enterate RD" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3508-294x165-FFFFFF.jpg" group-title="REP. DOMINICANA | General",Enterate RD
+#EXTINF:-1 tvg-id="EnterateRD.do" tvg-name="Enterate RD" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3508-294x165-FFFFFF.jpg" group-title="DOMINICAN REPUBLIC | General",Enterate RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8
-#EXTINF:-1 tvg-id="Enntivision.do" tvg-name="Entivision RD" tvg-country="DO" tvg-logo="https://i.imgur.com/nePOFZW.png" group-title="REP. DOMINICANA | General",Entivision RD
+#EXTINF:-1 tvg-id="Enntivision.do" tvg-name="Entivision RD" tvg-country="DO" tvg-logo="https://i.imgur.com/nePOFZW.png" group-title="DOMINICAN REPUBLIC | General",Entivision RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://edge.essastream.com/enntivision/playlist.m3u8
-#EXTINF:-1 tvg-id="EntunoTV.do" tvg-name="Entuno TV RD" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3864-800x450-FFFFFF.jpg" group-title="REP. DOMINICANA | General",Entuno TV RD
+#EXTINF:-1 tvg-id="EntunoTV.do" tvg-name="Entuno TV RD" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3864-800x450-FFFFFF.jpg" group-title="DOMINICAN REPUBLIC | General",Entuno TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://soportedvb.click:3442/live/entunotvlive.m3u8
-#EXTINF:-1 tvg-id="Farovision.do@SD" tvg-name="Farovision" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTay2Qs2qa3SQq7DG5TiKAQYasUl6WKz4iNjJiqURnzJg&s=10" group-title="REP. DOMINICANA | General",Farovision
+#EXTINF:-1 tvg-id="Farovision.do@SD" tvg-name="Farovision" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTay2Qs2qa3SQq7DG5TiKAQYasUl6WKz4iNjJiqURnzJg&s=10" group-title="DOMINICAN REPUBLIC | General",Farovision
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="HainaVision.do" tvg-name="Haina Vision RD" tvg-country="DO" tvg-logo="https://i.imgur.com/eoodUNJ.png" group-title="REP. DOMINICANA | General",Haina Vision RD
+#EXTINF:-1 tvg-id="HainaVision.do" tvg-name="Haina Vision RD" tvg-country="DO" tvg-logo="https://i.imgur.com/eoodUNJ.png" group-title="DOMINICAN REPUBLIC | General",Haina Vision RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
-#EXTINF:-1 tvg-id="HilandoFinoTV.do" tvg-name="Hilando Fino TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/E7ta6g8.png" group-title="REP. DOMINICANA | General",Hilando Fino TV RD
+#EXTINF:-1 tvg-id="HilandoFinoTV.do" tvg-name="Hilando Fino TV" tvg-country="DO" tvg-logo="https://i.imgur.com/E7ta6g8.png" group-title="DOMINICAN REPUBLIC | General",Hilando Fino TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
-#EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-name="Imagen TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="REP. DOMINICANA | General",Imagen TV RD
+#EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-name="Imagen TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="DOMINICAN REPUBLIC | General",Imagen TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-#EXTINF:-1 tvg-id="InformeTV.do" tvg-name="Informe TV" tvg-country="DO" tvg-logo="https://imgur.com/TmJaXrO.jpg" group-title="REP. DOMINICANA | General",Informe TV
+#EXTINF:-1 tvg-id="InformeTV.do" tvg-name="Informe TV" tvg-country="DO" tvg-logo="https://imgur.com/TmJaXrO.jpg" group-title="DOMINICAN REPUBLIC | General",Informe TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://edge.essastream.com/informetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="JPDTV.do" tvg-name="JPD TV" tvg-country="DO" tvg-logo="https://i0.wp.com/juanpabloduartetv.com/wp-content/uploads/2024/08/logo-JPDTV-100-x-100.png" group-title="REP. DOMINICANA | General",JPD TV
+#EXTINF:-1 tvg-id="JimaniTV.do" tvg-name="Jimani TV RD" tvg-country="DO" tvg-logo="https://imgur.com/EPYHUSc.jpeg" group-title="DOMINICAN REPUBLIC | General",Jimani TV RD
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
+#EXTINF:-1 tvg-id="JPDTV.do" tvg-name="JPD TV" tvg-country="DO" tvg-logo="https://i0.wp.com/juanpabloduartetv.com/wp-content/uploads/2024/08/logo-JPDTV-100-x-100.png" group-title="DOMINICAN REPUBLIC | General",JPD TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8
-#EXTINF:-1 tvg-id="LaCaletaTV.do" tvg-name="La Caleta TV" tvg-country="DO" tvg-logo="https://i.imgur.com/EfMtOja.png" group-title="REP. DOMINICANA | General",La Caleta TV
+#EXTINF:-1 tvg-id="LaCaletaTV.do" tvg-name="La Caleta TV" tvg-country="DO" tvg-logo="https://i.imgur.com/EfMtOja.png" group-title="DOMINICAN REPUBLIC | General",La Caleta TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://edge.essastream.com/lacaletatv/playlist.m3u8
-#EXTINF:-1 tvg-id="LaDescargaTV.do" tvg-name="La Descarga TV RD" tvg-country="DO" tvg-logo="https://imgur.com/kq1CrDE.png" group-title="REP. DOMINICANA | General",La Descarga TV RD
+#EXTINF:-1 tvg-id="LaDescargaTV.do" tvg-name="La Descarga TV RD" tvg-country="DO" tvg-logo="https://imgur.com/kq1CrDE.png" group-title="DOMINICAN REPUBLIC | General",La Descarga TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
-#EXTINF:-1 tvg-id="LaHoraTV.do" tvg-name="La Hora TV" tvg-country="DO" tvg-logo="https://lahoratv.org/imagen/lahora.jpeg" group-title="REP. DOMINICANA | General",La Hora TV
+#EXTINF:-1 tvg-id="LaHoraTV.do" tvg-name="La Hora TV" tvg-country="DO" tvg-logo="https://lahoratv.org/imagen/lahora.jpeg" group-title="DOMINICAN REPUBLIC | General",La Hora TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://edge.enhdtv.com/8206/index.m3u8
-#EXTINF:-1 tvg-id="LaRutaTV.do" tvg-name="La Ruta TV RD" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2896-294x165-FFFFFF.jpg" group-title="REP. DOMINICANA | General",La Ruta TV RD
+#EXTINF:-1 tvg-id="LaReinaTV.do" tvg-name="La Reina TV RD" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3386-294x165-FFFFFF.jpg" group-title="DOMINICAN REPUBLIC | General",La Reina TV RD
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
+#EXTINF:-1 tvg-id="LaRutaTV.do" tvg-name="La Ruta TV RD" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2896-294x165-FFFFFF.jpg" group-title="DOMINICAN REPUBLIC | General",La Ruta TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://streamunoapp.com:3983/live/larutatvlive.m3u8
-#EXTINF:-1 tvg-id="LatinaTVInternacional.do" tvg-name="Latina TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/UAfyeYT.png" group-title="REP. DOMINICANA | General",Latina TV RD
+#EXTINF:-1 tvg-id="LatinaTVInternacional.do" tvg-name="Latina TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/UAfyeYT.png" group-title="DOMINICAN REPUBLIC | General",Latina TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
-#EXTINF:-1 tvg-id="LenaTV.do" tvg-name="Lena TV" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3232-294x165-FFFFFF.jpg" group-title="REP. DOMINICANA | General",Lena TV
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8
-#EXTINF:-1 tvg-id="LunaTVCanal53.do" tvg-name="Luna TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/EvX5aqI.png" group-title="REP. DOMINICANA | General",Luna TV RD
+#EXTINF:-1 tvg-id="LunaTVCanal53.do" tvg-name="Luna TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/EvX5aqI.png" group-title="DOMINICAN REPUBLIC | General",Luna TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
-#EXTINF:-1 tvg-id="MakinaTV.do@SD" tvg-name="Makina TV" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2951-294x165-FFFFFF.jpg" group-title="REP. DOMINICANA | General",Makina TV
+#EXTINF:-1 tvg-id="MakinaTV.do@SD" tvg-name="Makina TV" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2951-294x165-FFFFFF.jpg" group-title="DOMINICAN REPUBLIC | General",Makina TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8
-#EXTINF:-1 tvg-id="ManaclarTelevision.do" tvg-name="Manaclar" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3445-294x165-FFFFFF.jpg" group-title="REP. DOMINICANA | General",Manaclar
+#EXTINF:-1 tvg-id="ManaclarTelevision.do" tvg-name="Manaclar" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3445-294x165-FFFFFF.jpg" group-title="DOMINICAN REPUBLIC | General",Manaclar
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
-#EXTINF:-1 tvg-id="MarkaTV.do@HD" tvg-name="Marka TV" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3355-294x165-FFFFFF.jpg" group-title="REP. DOMINICANA | General",Marka TV
+#EXTINF:-1 tvg-id="MarkaTV.do@HD" tvg-name="Marka TV" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3355-294x165-FFFFFF.jpg" group-title="DOMINICAN REPUBLIC | General",Marka TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
-#EXTINF:-1 tvg-id="MarlaVision.do" tvg-name="Marla Vision" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3738-294x165-FFFFFF.jpg" group-title="REP. DOMINICANA | General",Marla Vision
+#EXTINF:-1 tvg-id="MarlaVision.do" tvg-name="Marla Vision" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3738-294x165-FFFFFF.jpg" group-title="DOMINICAN REPUBLIC | General",Marla Vision
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://soportedvb.click:3877/live/merlavisionlive.m3u8
-#EXTINF:-1 tvg-id="MITurnoTV.do" tvg-name="MI Turno TV RD" tvg-country="DO" tvg-logo="https://imgur.com/uODDaEY.png" group-title="REP. DOMINICANA | General",MI Turno TV RD
+#EXTINF:-1 tvg-id="MITurnoTV.do" tvg-name="MI Turno TV RD" tvg-country="DO" tvg-logo="https://imgur.com/uODDaEY.png" group-title="DOMINICAN REPUBLIC | General",MI Turno TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
-#EXTINF:-1 tvg-id="MiavisionTV.do" tvg-name="Miavision TV RD" tvg-country="DO" tvg-logo="https://imgur.com/Bbcrjvs.png" group-title="REP. DOMINICANA | General",Miavision TV RD
+#EXTINF:-1 tvg-id="MiavisionTV.do" tvg-name="Miavision TV RD" tvg-country="DO" tvg-logo="https://imgur.com/Bbcrjvs.png" group-title="DOMINICAN REPUBLIC | General",Miavision TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://edge.essastream.com/miavisiontv/playlist.m3u8
-#EXTINF:-1 tvg-id="Microvision10.do" tvg-name="Microvision 10 RD" tvg-country="DO" tvg-logo="https://i.imgur.com/wMl1fNZ.png" group-title="REP. DOMINICANA | General",Microvision 10 RD
+#EXTINF:-1 tvg-id="Microvision10.do" tvg-name="Microvision 10 RD" tvg-country="DO" tvg-logo="https://i.imgur.com/wMl1fNZ.png" group-title="DOMINICAN REPUBLIC | General",Microvision 10 RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
-#EXTINF:-1 tvg-id="MontecristiDigital8.do" tvg-name="MonteCristi Digital" tvg-country="DO" tvg-logo="https://imgur.com/ExoOHQI.jpeg" group-title="REP. DOMINICANA | General",MonteCristi Digital
+#EXTINF:-1 tvg-id="MontecristiDigital8.do" tvg-name="MonteCristi Digital" tvg-country="DO" tvg-logo="https://imgur.com/ExoOHQI.jpeg" group-title="DOMINICAN REPUBLIC | General",MonteCristi Digital
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://soportedvb.click:3400/live/montecristitvlive.m3u8
-#EXTINF:-1 tvg-id="Musavision.do" tvg-name="Musavision RD" tvg-country="DO" tvg-logo="https://i.imgur.com/wMse6cT.png" group-title="REP. DOMINICANA | General",Musavision RD
+#EXTINF:-1 tvg-id="Musavision.do" tvg-name="Musavision RD" tvg-country="DO" tvg-logo="https://i.imgur.com/wMse6cT.png" group-title="DOMINICAN REPUBLIC | General",Musavision RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NaranjaTV.do" tvg-name="Naranja TV" tvg-country="DO" tvg-logo="https://i.imgur.com/g7iFN3s.png" group-title="REP. DOMINICANA | General",Naranja TV
+#EXTINF:-1 tvg-id="NaranjaTV.do" tvg-name="Naranja TV" tvg-country="DO" tvg-logo="https://i.imgur.com/g7iFN3s.png" group-title="DOMINICAN REPUBLIC | General",Naranja TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
-#EXTINF:-1 tvg-id="NavarreteTelevision.do" tvg-name="Navarrete TV" tvg-country="DO" tvg-logo="https://dominicanchannels.com/wp-content/uploads/navarrete.png" group-title="REP. DOMINICANA | General",Navarrete TV
+#EXTINF:-1 tvg-id="NavarreteTelevision.do" tvg-name="Navarrete TV" tvg-country="DO" tvg-logo="https://dominicanchannels.com/wp-content/uploads/navarrete.png" group-title="DOMINICAN REPUBLIC | General",Navarrete TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8
-#EXTINF:-1 tvg-id="NexxoTV.do@SD" tvg-name="Nexxo TV" tvg-country="DO" tvg-logo="https://i.imgur.com/2OpCxa6.png" group-title="REP. DOMINICANA | General",Nexxo TV
+#EXTINF:-1 tvg-id="LenaTV.do" tvg-name="Nexia TV" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3232-294x165-FFFFFF.jpg" group-title="DOMINICAN REPUBLIC | General",Nexia TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8
+#EXTINF:-1 tvg-id="NexxoTV.do@SD" tvg-name="Nexxo TV" tvg-country="DO" tvg-logo="https://i.imgur.com/2OpCxa6.png" group-title="DOMINICAN REPUBLIC | General",Nexxo TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/playlist.m3u8
-#EXTINF:-1 tvg-id="OndaTV.do" tvg-name="Onda TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/RUIyD9a.png" group-title="REP. DOMINICANA | General",Onda TV RD
+#EXTINF:-1 tvg-id="OndaTV.do" tvg-name="Onda TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/RUIyD9a.png" group-title="DOMINICAN REPUBLIC | General",Onda TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cnn.hostlagarto.com/ondatv/index.m3u8
-#EXTINF:-1 tvg-id="ORBITTV.do" tvg-name="ORBIT TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="REP. DOMINICANA | General",ORBIT TV RD
+#EXTINF:-1 tvg-id="ORBITTV.do" tvg-name="ORBIT TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="DOMINICAN REPUBLIC | General",ORBIT TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="PalmarTV.do" tvg-name="Palmar TV RD" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3328-294x165-FFFFFF.jpg" group-title="REP. DOMINICANA | General",Palmar TV RD
+#EXTINF:-1 tvg-id="PalmarTV.do" tvg-name="Palmar TV RD" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3328-294x165-FFFFFF.jpg" group-title="DOMINICAN REPUBLIC | General",Palmar TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://streamunoapp.com:3255/live/palmartvlive.m3u8
-#EXTINF:-1 tvg-id="RTelevision.do" tvg-name="R Television RD" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3039-294x165-FFFFFF.jpg" group-title="REP. DOMINICANA | General",R Television RD
+#EXTINF:-1 tvg-id="PuntoTV.do" tvg-name="Punto TV" tvg-country="DO" tvg-logo="https://i.imgur.com/k0jR4Gc.jpeg" group-title="DOMINICAN REPUBLIC | General",Punto TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/chunklist_w1822190565.m3u8
+#EXTINF:-1 tvg-id="RTelevision.do" tvg-name="R Television RD" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3039-294x165-FFFFFF.jpg" group-title="DOMINICAN REPUBLIC | General",R Television RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://vdopanel.jlahozconsulting.com/p/3142/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="ReadyTVCanal6.do" tvg-name="Ready TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="REP. DOMINICANA | General",Ready TV RD
+#EXTINF:-1 tvg-id="ReadyTVCanal6.do" tvg-name="Ready TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="DOMINICAN REPUBLIC | General",Ready TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
-#EXTINF:-1 tvg-id="RocavisionTV.do" tvg-name="Rocavision TV RD" tvg-country="DO" tvg-logo="https://imgur.com/FkHqqsi.jpg" group-title="REP. DOMINICANA | General",Rocavision TV RD
+#EXTINF:-1 tvg-id="ReporteroTV.do" tvg-name="Reportero TV" tvg-country="DO" tvg-logo="https://dominicanchannels.com/wp-content/uploads/Reportero-100x75-1.png" group-title="DOMINICAN REPUBLIC | General",Reportero TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8
+#EXTINF:-1 tvg-id="RocavisionTV.do" tvg-name="Rocavision TV RD" tvg-country="DO" tvg-logo="https://imgur.com/FkHqqsi.jpg" group-title="DOMINICAN REPUBLIC | General",Rocavision TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
-#EXTINF:-1 tvg-id="RomanaTVCanal42.do" tvg-name="Romana TV" tvg-country="DO" tvg-logo="https://i.imgur.com/EXnsmhx.png" group-title="REP. DOMINICANA | General",Romana TV
+#EXTINF:-1 tvg-id="RomanaTVCanal42.do" tvg-name="Romana TV" tvg-country="DO" tvg-logo="https://i.imgur.com/EXnsmhx.png" group-title="DOMINICAN REPUBLIC | General",Romana TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
-#EXTINF:-1 tvg-id="Ruta66TV.do@SD" tvg-name="Ruta 66 TV" tvg-country="DO" tvg-logo="https://i.imgur.com/oY4Xfvq.png" group-title="REP. DOMINICANA | General",Ruta 66 TV
+#EXTINF:-1 tvg-id="Ruta66TV.do@SD" tvg-name="Ruta 66 TV" tvg-country="DO" tvg-logo="https://i.imgur.com/oY4Xfvq.png" group-title="DOMINICAN REPUBLIC | General",Ruta 66 TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://edge.livestreaminggroup.info/ruta66tvlive/index.m3u8
-#EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-name="San Isidro TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/pwmJrsm.jpg" group-title="REP. DOMINICANA | General",San Isidro TV RD
+#EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-name="San Isidro TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/pwmJrsm.jpg" group-title="DOMINICAN REPUBLIC | General",San Isidro TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://5790d294af2dc.streamlock.net/expresooriental/expresooriental/playlist.m3u8
-#EXTINF:-1 tvg-id="SantiagoTV.do" tvg-name="Santiago TV" tvg-country="DO" tvg-logo="https://i.imgur.com/10SUxGZ.png" group-title="REP. DOMINICANA | General",Santiago TV
+#EXTINF:-1 tvg-id="SantiagoTV.do" tvg-name="Santiago TV" tvg-country="DO" tvg-logo="https://i.imgur.com/10SUxGZ.png" group-title="DOMINICAN REPUBLIC | General",Santiago TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://edge.essastream.com/telemilenio/playlist.m3u8
-#EXTINF:-1 tvg-id="SenalDigitalTV.do" tvg-name="Señal Digital RD" tvg-country="DO" tvg-logo="https://imgur.com/KGqUu1X.jpg" group-title="REP. DOMINICANA | General",Señal Digital RD
+#EXTINF:-1 tvg-id="SenalDigitalTV.do" tvg-name="Señal Digital RD" tvg-country="DO" tvg-logo="https://imgur.com/KGqUu1X.jpg" group-title="DOMINICAN REPUBLIC | General",Señal Digital RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
-#EXTINF:-1 tvg-id="SiTV.do@SD" tvg-name="Si TV" tvg-country="DO" tvg-logo="https://i.imgur.com/f8bDccF.png" group-title="REP. DOMINICANA | General",Si TV
+#EXTINF:-1 tvg-id="SiTV.do@SD" tvg-name="Si TV" tvg-country="DO" tvg-logo="https://i.imgur.com/f8bDccF.png" group-title="DOMINICAN REPUBLIC | General",Si TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
-#EXTINF:-1 tvg-id="SuperCanal.do" tvg-name="Super Canal RD" tvg-country="DO" tvg-logo="https://i.imgur.com/AZBamNi.png" group-title="REP. DOMINICANA | General",Super Canal RD
+#EXTINF:-1 tvg-id="SuperCanal.do" tvg-name="Super Canal RD" tvg-country="DO" tvg-logo="https://i.imgur.com/AZBamNi.png" group-title="DOMINICAN REPUBLIC | General",Super Canal RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8
-#EXTINF:-1 tvg-id="SuperTV55.do" tvg-name="Super TV 55" tvg-country="DO" tvg-logo="https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg" group-title="REP. DOMINICANA | General",Super TV 55
+#EXTINF:-1 tvg-id="SuperTV55.do" tvg-name="Super TV 55" tvg-country="DO" tvg-logo="https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg" group-title="DOMINICAN REPUBLIC | General",Super TV 55
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8
-#EXTINF:-1 tvg-id="SurTV.do" tvg-name="Sur TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/oAyvK0N.jpeg" group-title="REP. DOMINICANA | General",Sur TV RD
+#EXTINF:-1 tvg-id="SurTV.do" tvg-name="Sur TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/oAyvK0N.jpeg" group-title="DOMINICAN REPUBLIC | General",Sur TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8
-#EXTINF:-1 tvg-id="TDNMedios.do" tvg-name="TDN Medios" tvg-country="DO" tvg-logo="https://i.imgur.com/C8dSJM7.png" group-title="REP. DOMINICANA | General",TDN Medios
+#EXTINF:-1 tvg-id="TDNMedios.do" tvg-name="TDN Medios" tvg-country="DO" tvg-logo="https://i.imgur.com/C8dSJM7.png" group-title="DOMINICAN REPUBLIC | General",TDN Medios
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8
-#EXTINF:-1 tvg-id="JuniorTechnologiaTV.do@HD" tvg-name="Technologia TV" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3812-294x165-FFFFFF.jpg" group-title="REP. DOMINICANA | General",Technologia TV
+#EXTINF:-1 tvg-id="JuniorTechnologiaTV.do@HD" tvg-name="Technologia TV" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3812-294x165-FFFFFF.jpg" group-title="DOMINICAN REPUBLIC | General",Technologia TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
-#EXTINF:-1 tvg-id="TeleDajabonTV.do@HD" tvg-name="Tele Dajabon TV" tvg-country="DO" tvg-logo="https://i.imgur.com/8SBQHsv.jpeg" group-title="REP. DOMINICANA | General",Tele Dajabon TV
+#EXTINF:-1 tvg-id="TeleDajabonTV.do@HD" tvg-name="Tele Dajabon TV" tvg-country="DO" tvg-logo="https://i.imgur.com/8SBQHsv.jpeg" group-title="DOMINICAN REPUBLIC | General",Tele Dajabon TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleRadioNorte.do" tvg-name="Tele Norte RD" tvg-country="DO" tvg-logo="https://i.imgur.com/s43eFy0.png" group-title="REP. DOMINICANA | General",Tele Norte RD
+#EXTINF:-1 tvg-id="TeleRadioNorte.do" tvg-name="Tele Norte RD" tvg-country="DO" tvg-logo="https://i.imgur.com/s43eFy0.png" group-title="DOMINICAN REPUBLIC | General",Tele Norte RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://angelistic.live:3785/live/tvoficiallive.m3u8
-#EXTINF:-1 tvg-id="TeleProyectoTV.do" tvg-name="Tele Proyecto TV RD" tvg-country="DO" tvg-logo="https://imgur.com/LmBxN5x.png" group-title="REP. DOMINICANA | General",Tele Proyecto TV RD
+#EXTINF:-1 tvg-id="TeleProyectoTV.do" tvg-name="Tele Proyecto TV RD" tvg-country="DO" tvg-logo="https://imgur.com/LmBxN5x.png" group-title="DOMINICAN REPUBLIC | General",Tele Proyecto TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecanal12.do" tvg-name="Telecanal 12 RD" tvg-country="DO" tvg-logo="https://i.imgur.com/90cTK8S.png" group-title="REP. DOMINICANA | General",Telecanal 12 RD
+#EXTINF:-1 tvg-id="Telecanal12.do" tvg-name="Telecanal 12 RD" tvg-country="DO" tvg-logo="https://i.imgur.com/90cTK8S.png" group-title="DOMINICAN REPUBLIC | General",Telecanal 12 RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Telecanal28.do" tvg-name="Telecanal 28 RD" tvg-country="DO" tvg-logo="https://i.imgur.com/hEJ6lZ9.png" group-title="REP. DOMINICANA | General",Telecanal 28 RD
+#EXTINF:-1 tvg-id="Telecanal28.do" tvg-name="Telecanal 28 RD" tvg-country="DO" tvg-logo="https://i.imgur.com/hEJ6lZ9.png" group-title="DOMINICAN REPUBLIC | General",Telecanal 28 RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Telecentro RD" tvg-country="DO" tvg-logo="https://i.imgur.com/F17zNXh.png" group-title="REP. DOMINICANA | General",Telecentro RD
+#EXTINF:-1 tvg-name="Telecentro RD" tvg-country="DO" tvg-logo="https://i.imgur.com/F17zNXh.png" group-title="DOMINICAN REPUBLIC | General",Telecentro RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://ds.tvabierta.net/memfs/a581f58a-76a9-4025-8eda-4b0e5c37963e_output_0.m3u8?session=RNHyRtPpZxqTu62bVyoVyo
-#EXTINF:-1 tvg-id="TeleCibaoHD.do" tvg-name="TeleCibao RD" tvg-country="DO" tvg-logo="https://i.imgur.com/IpInp05.png" group-title="REP. DOMINICANA | General",TeleCibao RD
+#EXTINF:-1 tvg-id="TeleCibaoHD.do" tvg-name="TeleCibao RD" tvg-country="DO" tvg-logo="https://i.imgur.com/IpInp05.png" group-title="DOMINICAN REPUBLIC | General",TeleCibao RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TelecomercioTV.do" tvg-name="Telecomercio RD" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX16VENIzGMjV-0ga9eTtZA_t_QxuizUWH70-3zS9BUg&s=10" group-title="REP. DOMINICANA | General",Telecomercio RD
+#EXTINF:-1 tvg-id="TelecomercioTV.do" tvg-name="Telecomercio RD" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX16VENIzGMjV-0ga9eTtZA_t_QxuizUWH70-3zS9BUg&s=10" group-title="DOMINICAN REPUBLIC | General",Telecomercio RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://streaming.grupomediosdelnorte.com:19360/telecomerciotv/telecomerciotv.m3u8
-#EXTINF:-1 tvg-id="Telecontacto.do" tvg-name="Telecontacto RD" tvg-country="DO" tvg-logo="https://grupomediosdelnorte.com/wp-content/uploads/2023/12/TELE.png" group-title="REP. DOMINICANA | General",Telecontacto RD
+#EXTINF:-1 tvg-id="Telecontacto.do" tvg-name="Telecontacto RD" tvg-country="DO" tvg-logo="https://grupomediosdelnorte.com/wp-content/uploads/2023/12/TELE.png" group-title="DOMINICAN REPUBLIC | General",Telecontacto RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
-#EXTINF:-1 tvg-id="Telefuturo.do@SD" tvg-name="Telefuturo" tvg-country="DO" tvg-logo="https://i.imgur.com/QpnctoU.png" group-title="REP. DOMINICANA | General",Telefuturo
+#EXTINF:-1 tvg-id="Telefuturo.do@SD" tvg-name="Telefuturo" tvg-country="DO" tvg-logo="https://i.imgur.com/QpnctoU.png" group-title="DOMINICAN REPUBLIC | General",Telefuturo
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8
-#EXTINF:-1 tvg-id="TelemetroTV.do" tvg-name="Telemetro RD" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3823-294x165-FFFFFF.jpg" group-title="REP. DOMINICANA | General",Telemetro RD
+#EXTINF:-1 tvg-id="TelemediosCanal8.do" tvg-name="Telemedios Canal 8" tvg-country="DO" tvg-logo="https://i.imgur.com/xhEAw7z.png" group-title="DOMINICAN REPUBLIC | General",Telemedios Canal 8
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://hls.tvabierta.net/hls/008.m3u8
+#EXTINF:-1 tvg-id="TelemetroTV.do" tvg-name="Telemetro RD" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3823-294x165-FFFFFF.jpg" group-title="DOMINICAN REPUBLIC | General",Telemetro RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://streamunoapp.com:3366/live/telemetrolive.m3u8
-#EXTINF:-1 tvg-id="Telemicro.do" tvg-name="Telemicro" tvg-country="DO" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="REP. DOMINICANA | General",Telemicro
+#EXTINF:-1 tvg-id="Telemicro.do" tvg-name="Telemicro" tvg-country="DO" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="DOMINICAN REPUBLIC | General",Telemicro
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://ds.tvabierta.net/memfs/efab0d97-68d8-414e-8cdc-23d539b09944_output_0.m3u8?session=Uvq4YHBZzXpks84KKdgtrk
-#EXTINF:-1 tvg-id="Teleunion.do@SD" tvg-name="Teleunion" tvg-country="DO" tvg-logo="https://i.imgur.com/vTfxkjW.png" group-title="REP. DOMINICANA | General",Teleunion
+#EXTINF:-1 tvg-id="Teleunion.do@SD" tvg-name="Teleunion" tvg-country="DO" tvg-logo="https://i.imgur.com/vTfxkjW.png" group-title="DOMINICAN REPUBLIC | General",Teleunion
 #EXTVLCOPT:http-referrer=https://teleuniontvrd.com/portal/
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleuniverso.do@SD" tvg-name="Teleuniverso" tvg-country="DO" tvg-logo="https://i.imgur.com/gQev8ST.png" group-title="REP. DOMINICANA | General",Teleuniverso
+#EXTINF:-1 tvg-id="Teleuniverso.do@SD" tvg-name="TeleUniverso" tvg-country="DO" tvg-logo="https://i.imgur.com/gQev8ST.png" group-title="DOMINICAN REPUBLIC | General",TeleUniverso
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://hls.tvabierta.net/hls/029.m3u8
-#EXTINF:-1 tvg-id="Telever.do@SD" tvg-name="Telever" tvg-country="DO" tvg-logo="https://imgur.com/ejKctXc.png" group-title="REP. DOMINICANA | General",Telever
+#EXTINF:-1 tvg-id="Telever.do@SD" tvg-name="Telever" tvg-country="DO" tvg-logo="https://imgur.com/ejKctXc.png" group-title="DOMINICAN REPUBLIC | General",Telever
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://soportedvb.click:3413/live/televerlive.m3u8
-#EXTINF:-1 tvg-id="TenarensesTV.do" tvg-name="Tenarenses TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/cPIgs0v.png" group-title="REP. DOMINICANA | General",Tenarenses TV RD
+#EXTINF:-1 tvg-id="TenarensesTV.do" tvg-name="Tenarenses TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/cPIgs0v.png" group-title="DOMINICAN REPUBLIC | General",Tenarenses TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://edge.essastream.com/tenarensestvrd/playlist.m3u8
-#EXTINF:-1 tvg-id="ToraCanal69.do" tvg-name="Tora Canal 69" tvg-country="DO" tvg-logo="https://latoratv69.com.do/wp-content/themes/bootscore/assets/img/logo-tora-tv.png" group-title="REP. DOMINICANA | General",Tora Canal 69
+#EXTINF:-1 tvg-id="ToraCanal69.do" tvg-name="Tora Canal 69" tvg-country="DO" tvg-logo="https://latoratv69.com.do/wp-content/themes/bootscore/assets/img/logo-tora-tv.png" group-title="DOMINICAN REPUBLIC | General",Tora Canal 69
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://tv.wracanal10.com:3012/live/latoratvlive.m3u8
-#EXTINF:-1 tvg-id="TV10SanJuan.do" tvg-name="TV 10 San Juan RD" tvg-country="DO" tvg-logo="https://i.imgur.com/e2BXUdH.png" group-title="REP. DOMINICANA | General",TV 10 San Juan RD
+#EXTINF:-1 tvg-id="TV10SanJuan.do" tvg-name="TV 10 San Juan RD" tvg-country="DO" tvg-logo="https://i.imgur.com/e2BXUdH.png" group-title="DOMINICAN REPUBLIC | General",TV 10 San Juan RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://59d39900ebfb8.streamlock.net/tv10sanjuan/tv10sanjuan/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCotuiCanal31.do" tvg-name="TV Cotui 31 RD" tvg-country="DO" tvg-logo="https://i.imgur.com/sMF7JDm.png" group-title="REP. DOMINICANA | General",TV Cotui 31 RD
+#EXTINF:-1 tvg-id="TVCotuiCanal31.do" tvg-name="TV Cotui 31 RD" tvg-country="DO" tvg-logo="https://i.imgur.com/sMF7JDm.png" group-title="DOMINICAN REPUBLIC | General",TV Cotui 31 RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8
-#EXTINF:-1 tvg-id="TVHigueyDigital.do" tvg-name="TV Higuey Digital" tvg-country="DO" tvg-logo="https://i.imgur.com/ptQyOMi.png" group-title="REP. DOMINICANA | General",TV Higuey Digital
+#EXTINF:-1 tvg-id="TVHigueyDigital.do" tvg-name="TV Higuey" tvg-country="DO" tvg-logo="https://i.imgur.com/ptQyOMi.png" group-title="DOMINICAN REPUBLIC | General",TV Higuey
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8
-#EXTINF:-1 tvg-id="TVHispanic.us" tvg-name="TV Hispanic RD" tvg-country="DO" tvg-logo="https://i.imgur.com/eThe0io.png" group-title="REP. DOMINICANA | General",TV Hispanic RD
+#EXTINF:-1 tvg-id="TVHispanic.us" tvg-name="TV Hispanic RD" tvg-country="DO" tvg-logo="https://i.imgur.com/eThe0io.png" group-title="DOMINICAN REPUBLIC | General",TV Hispanic RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
-#EXTINF:-1 tvg-id="TVPlata.do@SD" tvg-name="TV Plata" tvg-country="DO" tvg-logo="https://i.imgur.com/r3urUnn.png" group-title="REP. DOMINICANA | General",TV Plata
+#EXTINF:-1 tvg-id="TVPlata.do@SD" tvg-name="TV Plata" tvg-country="DO" tvg-logo="https://i.imgur.com/r3urUnn.png" group-title="DOMINICAN REPUBLIC | General",TV Plata
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8
-#EXTINF:-1 tvg-id="TVQuisqueya.us" tvg-name="TV Quisqueya" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREI-UiI-BwX5LaQkgq5VthjT7bp2ULNgAe_zLB6HsHnw&s=10" group-title="REP. DOMINICANA | General",TV Quisqueya
+#EXTINF:-1 tvg-id="TVQuisqueya.us" tvg-name="TV Quisqueya" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREI-UiI-BwX5LaQkgq5VthjT7bp2ULNgAe_zLB6HsHnw&s=10" group-title="DOMINICAN REPUBLIC | General",TV Quisqueya
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
-#EXTINF:-1 tvg-id="TVN.do" tvg-name="TVN" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4037-294x165-FFFFFF.jpg" group-title="REP. DOMINICANA | General",TVN
+#EXTINF:-1 tvg-id="TVN.do" tvg-name="TVN" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4037-294x165-FFFFFF.jpg" group-title="DOMINICAN REPUBLIC | General",TVN
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8
-#EXTINF:-1 tvg-id="TVO.do" tvg-name="TVO LA Romana" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuI_wRE16Nba2haeRpzyuiO0bl6cXihrgnitGQpjFsg&s=10" group-title="REP. DOMINICANA | General",TVO LA Romana
+#EXTINF:-1 tvg-id="TVO.do" tvg-name="TVO LA Romana" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuI_wRE16Nba2haeRpzyuiO0bl6cXihrgnitGQpjFsg&s=10" group-title="DOMINICAN REPUBLIC | General",TVO LA Romana
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
-#EXTINF:-1 tvg-id="UVATV.do" tvg-name="UVA TV" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3918-294x165-FFFFFF.jpg" group-title="REP. DOMINICANA | General",UVA TV
+#EXTINF:-1 tvg-id="UVATV.do" tvg-name="UVA TV" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3918-294x165-FFFFFF.jpg" group-title="DOMINICAN REPUBLIC | General",UVA TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://www.uvatvhd.com/hls.php?file=live.m3u8
-#EXTINF:-1 tvg-id="ValleNuevoTV.do" tvg-name="Valle Nuevo RD" tvg-country="DO" tvg-logo="https://i.imgur.com/RvIkFxp.png" group-title="REP. DOMINICANA | General",Valle Nuevo RD
+#EXTINF:-1 tvg-id="ValleNuevoTV.do" tvg-name="Valle Nuevo RD" tvg-country="DO" tvg-logo="https://i.imgur.com/RvIkFxp.png" group-title="DOMINICAN REPUBLIC | General",Valle Nuevo RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
-#EXTINF:-1 tvg-id="Vallevision.do" tvg-name="Vallevision RD" tvg-country="DO" tvg-logo="https://i.imgur.com/lNpgFAU.png" group-title="REP. DOMINICANA | General",Vallevision RD
+#EXTINF:-1 tvg-id="Vallevision.do" tvg-name="Vallevision RD" tvg-country="DO" tvg-logo="https://i.imgur.com/lNpgFAU.png" group-title="DOMINICAN REPUBLIC | General",Vallevision RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
-#EXTINF:-1 tvg-id="VegaTeve.do" tvg-name="Vega Teve" tvg-country="DO" tvg-logo="https://i.imgur.com/jiyMOZx.png" group-title="REP. DOMINICANA | General",Vega Teve
+#EXTINF:-1 tvg-id="VegaTeve.do" tvg-name="Vega Teve" tvg-country="DO" tvg-logo="https://i.imgur.com/jiyMOZx.png" group-title="DOMINICAN REPUBLIC | General",Vega Teve
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cloud5.livescast.com:19360/canalvegateve/canalvegateve.m3u8
-#EXTINF:-1 tvg-id="VTVCanal32.do@SD" tvg-name="VTV Canal" tvg-country="DO" tvg-logo="https://i.imgur.com/qjm4B0J.png" group-title="REP. DOMINICANA | General",VTV Canal
+#EXTINF:-1 tvg-id="VTVCanal32.do@SD" tvg-name="VTV Canal" tvg-country="DO" tvg-logo="https://i.imgur.com/qjm4B0J.png" group-title="DOMINICAN REPUBLIC | General",VTV Canal
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
-#EXTINF:-1 tvg-id="XtraTv.do" tvg-name="Xtra Tv" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr2toabsiuoTwI7u3L-NS2S1pFHWF-ITrFiFbV__OILg&s" group-title="REP. DOMINICANA | General",Xtra Tv
+#EXTINF:-1 tvg-id="XtraTv.do" tvg-name="Xtra Tv" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr2toabsiuoTwI7u3L-NS2S1pFHWF-ITrFiFbV__OILg&s" group-title="DOMINICAN REPUBLIC | General",Xtra Tv
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://edge.essastream.com/xtratv/index.m3u8
-#EXTINF:-1 tvg-id="XtremoChannel.do" tvg-name="Xtremo RD" tvg-country="DO" tvg-logo="https://i.imgur.com/bvPh0Uq.png" group-title="REP. DOMINICANA | General",Xtremo RD
+#EXTINF:-1 tvg-id="XtremoChannel.do" tvg-name="Xtremo RD" tvg-country="DO" tvg-logo="https://i.imgur.com/bvPh0Uq.png" group-title="DOMINICAN REPUBLIC | General",Xtremo RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
-#EXTINF:-1 tvg-id="ZASTV.do@HD" tvg-name="ZAS TV" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4058-294x165-FFFFFF.jpg" group-title="REP. DOMINICANA | General",ZAS TV
+#EXTINF:-1 tvg-id="ZASTV.do@HD" tvg-name="ZAS TV" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4058-294x165-FFFFFF.jpg" group-title="DOMINICAN REPUBLIC | General",ZAS TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cloud5.zastv.net/hls/zastv.m3u8
-#EXTINF:-1 tvg-id="ZincNombreTV.do" tvg-name="Zinc Nombre TV" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3751-294x165-FFFFFF.jpg" group-title="REP. DOMINICANA | General",Zinc Nombre TV
+#EXTINF:-1 tvg-id="ZincNombreTV.do" tvg-name="Zinc TV" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3751-294x165-FFFFFF.jpg" group-title="DOMINICAN REPUBLIC | General",Zinc TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ZonavisionTV.do" tvg-name="Zonavision TV" tvg-country="DO" tvg-logo="https://imgur.com/B3PrrMH.png" group-title="REP. DOMINICANA | General",Zonavision TV
+#EXTINF:-1 tvg-id="ZonavisionTV.do" tvg-name="Zonavision TV" tvg-country="DO" tvg-logo="https://imgur.com/B3PrrMH.png" group-title="DOMINICAN REPUBLIC | General",Zonavision TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
-#EXTINF:-1 tvg-id="ChinolaTV.do" tvg-name="Chinola TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="REP. DOMINICANA | Infantil",Chinola TV RD
+#EXTINF:-1 tvg-id="ChinolaTV.do" tvg-name="Chinola TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="DOMINICAN REPUBLIC | Kids",Chinola TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
-#EXTINF:-1 tvg-id="ElPitucoTV.do" tvg-name="El Pituco TV" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuQBz2daSngZNA6jh7GM3K8ztUVIJ8a0TsbPAC9enrlw&s" group-title="REP. DOMINICANA | Infantil",El Pituco TV
+#EXTINF:-1 tvg-id="ElPitucoTV.do" tvg-name="El Pituco TV" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuQBz2daSngZNA6jh7GM3K8ztUVIJ8a0TsbPAC9enrlw&s" group-title="DOMINICAN REPUBLIC | Kids",El Pituco TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
-#EXTINF:-1 tvg-id="LagunaTV.do" tvg-name="Laguna TV RD" tvg-country="DO" tvg-logo="https://dominicanchannels.com/wp-content/uploads/lagunatv.jpg" group-title="REP. DOMINICANA | Infantil",Laguna TV RD
+#EXTINF:-1 tvg-id="LagunaTV.do" tvg-name="Laguna TV RD" tvg-country="DO" tvg-logo="https://dominicanchannels.com/wp-content/uploads/lagunatv.jpg" group-title="DOMINICAN REPUBLIC | Kids",Laguna TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cnn.hostlagarto.com/lagutv/playlist.m3u8
-#EXTINF:-1 tvg-id="TigueritoTV.do" tvg-name="Tiguerito TV RD" tvg-country="DO" tvg-logo="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg" group-title="REP. DOMINICANA | Infantil",Tiguerito TV RD
+#EXTINF:-1 tvg-id="TigueritoTV.do" tvg-name="Tiguerito TV RD" tvg-country="DO" tvg-logo="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg" group-title="DOMINICAN REPUBLIC | Kids",Tiguerito TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
-#EXTINF:-1 tvg-id="TomAndJerry.do" tvg-name="Tom And Jerry" tvg-country="DO" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="REP. DOMINICANA | Infantil",Tom And Jerry
+#EXTINF:-1 tvg-id="TomAndJerry.do" tvg-name="Tom And Jerry" tvg-country="DO" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="DOMINICAN REPUBLIC | Kids",Tom And Jerry
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 tvg-id="FRATATV.do" tvg-name="Frata TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/VxeTREd.png" group-title="REP. DOMINICANA | Música",Frata TV RD
+#EXTINF:-1 tvg-id="Boreal.do@SD" tvg-name="Boreal" tvg-country="DO" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="DOMINICAN REPUBLIC | Movies",Boreal
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SantaCruzTV.do" tvg-name="Canal 8 El Seibo" tvg-country="DO" tvg-logo="https://santacruztv8.com/assets/images/logo.png" group-title="DOMINICAN REPUBLIC | Movies",Canal 8 El Seibo
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://host.streamingnation.live/p/3345/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="MegaCineTV.do" tvg-name="Mega Cine TV RD" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="DOMINICAN REPUBLIC | Movies",Mega Cine TV RD
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+#EXTINF:-1 tvg-id="FRATATV.do" tvg-name="Frata TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/VxeTREd.png" group-title="DOMINICAN REPUBLIC | Music",Frata TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="FuegoTV.do" tvg-name="Fuego TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/T9vWjeB.png" group-title="REP. DOMINICANA | Música",Fuego TV RD
+#EXTINF:-1 tvg-id="FuegoTV.do" tvg-name="Fuego TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/T9vWjeB.png" group-title="DOMINICAN REPUBLIC | Music",Fuego TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://streamunoapp.com:3553/live/cromtvlive.m3u8
-#EXTINF:-1 tvg-id="MakaoTV.do" tvg-name="Makao TV" tvg-country="DO" tvg-logo="https://i.imgur.com/asD5y7i.png" group-title="REP. DOMINICANA | Música",Makao TV
+#EXTINF:-1 tvg-id="MakaoTV.do" tvg-name="Makao TV" tvg-country="DO" tvg-logo="https://i.imgur.com/asD5y7i.png" group-title="DOMINICAN REPUBLIC | Music",Makao TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://live.obslivestream.com/makaomux/index.m3u8
-#EXTINF:-1 tvg-id="MontonesTV.do" tvg-name="Montones TV" tvg-country="DO" tvg-logo="https://montonestv.com/wp-content/uploads/2025/11/montones-logo.png" group-title="REP. DOMINICANA | Música",Montones TV
+#EXTINF:-1 tvg-id="MontonesTV.do" tvg-name="Montones TV" tvg-country="DO" tvg-logo="https://montonestv.com/wp-content/uploads/2025/11/montones-logo.png" group-title="DOMINICAN REPUBLIC | Music",Montones TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleDominicanaTV.do" tvg-name="Tele Dominicana" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSspZRSyY3AIWWD-r8ePdfJmuk4ySlf_3BqkdUyoe4Z0g&s=10" group-title="REP. DOMINICANA | Música",Tele Dominicana
+#EXTINF:-1 tvg-id="TeleDominicanaTV.do" tvg-name="Tele Dominicana" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSspZRSyY3AIWWD-r8ePdfJmuk4ySlf_3BqkdUyoe4Z0g&s=10" group-title="DOMINICAN REPUBLIC | Music",Tele Dominicana
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="TopicalMoonRD.do" tvg-name="Tropical Moon RD" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3900-294x165-FFFFFF.jpg" group-title="REP. DOMINICANA | Música",Tropical Moon RD
+#EXTINF:-1 tvg-id="TopicalMoonRD.do" tvg-name="Tropical Moon RD" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3900-294x165-FFFFFF.jpg" group-title="DOMINICAN REPUBLIC | Music",Tropical Moon RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8
-#EXTINF:-1 tvg-id="TVExitos.do" tvg-name="TV Éxitos RD" tvg-country="DO" tvg-logo="https://grupomediosdelnorte.com/wp-content/uploads/2023/12/TV-EXITOS.png" group-title="REP. DOMINICANA | Música",TV Éxitos RD
+#EXTINF:-1 tvg-id="TVExitos.do" tvg-name="TV Éxitos RD" tvg-country="DO" tvg-logo="https://grupomediosdelnorte.com/wp-content/uploads/2023/12/TV-EXITOS.png" group-title="DOMINICAN REPUBLIC | Music",TV Éxitos RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
-#EXTINF:-1 tvg-id="Carivision.do" tvg-name="Carivision" tvg-country="DO" tvg-logo="https://i.imgur.com/XjGb2UM.png" group-title="REP. DOMINICANA | Noticias",Carivision
+#EXTINF:-1 tvg-id="Carivision.do" tvg-name="Carivision" tvg-country="DO" tvg-logo="https://i.imgur.com/XjGb2UM.png" group-title="DOMINICAN REPUBLIC | News",Carivision
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8
-#EXTINF:-1 tvg-id="CitricoTV.do@SD" tvg-name="Citrico TV" tvg-country="DO" tvg-logo="https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg" group-title="REP. DOMINICANA | Noticias",Citrico TV
+#EXTINF:-1 tvg-id="CitricoTV.do@SD" tvg-name="Citrico TV" tvg-country="DO" tvg-logo="https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg" group-title="DOMINICAN REPUBLIC | News",Citrico TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://edge.essastream.com/citricotv/playlist.m3u8
-#EXTINF:-1 tvg-id="DeUltimoMinutoTV.do@SD" tvg-name="De Ultimo Minuto TV" tvg-country="DO" tvg-logo="https://i.imgur.com/6ML2z17.png" group-title="REP. DOMINICANA | Noticias",De Ultimo Minuto TV
+#EXTINF:-1 tvg-id="DeUltimoMinutoTV.do@SD" tvg-name="De Ultimo Minuto" tvg-country="DO" tvg-logo="https://i.imgur.com/6ML2z17.png" group-title="DOMINICAN REPUBLIC | News",De Ultimo Minuto
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
-#EXTINF:-1 tvg-id="LinierosTV.do" tvg-name="Linieros TV" tvg-country="DO" tvg-logo="https://i.imgur.com/bLutjkf.png" group-title="REP. DOMINICANA | Noticias",Linieros TV
+#EXTINF:-1 tvg-id="LinierosTV.do" tvg-name="Linieros TV" tvg-country="DO" tvg-logo="https://i.imgur.com/bLutjkf.png" group-title="DOMINICAN REPUBLIC | News",Linieros TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://soportedvb.click:3017/live/linierostvlive.m3u8
-#EXTINF:-1 tvg-id="Noticias16.do" tvg-name="Noticias 16 RD" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvH8YVCAMc21MnNgvTW6hd_u_UV29Tb2u32GomBcogwg&s=10" group-title="REP. DOMINICANA | Noticias",Noticias 16 RD
+#EXTINF:-1 tvg-id="Noticias16.do" tvg-name="Noticias 16 RD" tvg-country="DO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvH8YVCAMc21MnNgvTW6hd_u_UV29Tb2u32GomBcogwg&s=10" group-title="DOMINICAN REPUBLIC | News",Noticias 16 RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://edge.essastream.com/noticias16/playlist.m3u8
-#EXTINF:-1 tvg-id="OEPMTV.do" tvg-name="OEPM TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/QghtwMB.jpeg" group-title="REP. DOMINICANA | Noticias",OEPM TV RD
+#EXTINF:-1 tvg-id="OEPMTV.do" tvg-name="OEPM TV RD" tvg-country="DO" tvg-logo="https://i.imgur.com/QghtwMB.jpeg" group-title="DOMINICAN REPUBLIC | News",OEPM TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RDN.do" tvg-name="RDN RD" tvg-country="DO" tvg-logo="https://i.imgur.com/x02CGSW.png" group-title="REP. DOMINICANA | Noticias",RDN RD
+#EXTINF:-1 tvg-id="RDN.do" tvg-name="RDN RD" tvg-country="DO" tvg-logo="https://i.imgur.com/x02CGSW.png" group-title="DOMINICAN REPUBLIC | News",RDN RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RNN.do" tvg-name="RNN" tvg-country="DO" tvg-logo="https://i.imgur.com/12Z9qPw.png" group-title="REP. DOMINICANA | Noticias",RNN
+#EXTINF:-1 tvg-id="RNN.do" tvg-name="RNN" tvg-country="DO" tvg-logo="https://i.imgur.com/12Z9qPw.png" group-title="DOMINICAN REPUBLIC | News",RNN
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
-#EXTINF:-1 tvg-id="SiembraTV.do" tvg-name="Siembra TV RD" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3226-800x450-FFFFFF.jpg" group-title="REP. DOMINICANA | Noticias",Siembra TV RD
+#EXTINF:-1 tvg-id="SiembraTV.do" tvg-name="Siembra TV RD" tvg-country="DO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3226-800x450-FFFFFF.jpg" group-title="DOMINICAN REPUBLIC | News",Siembra TV RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://streamunoapp.com:3809/live/siembratvlive.m3u8
-#EXTINF:-1 tvg-id="TelevisiondelEste.do" tvg-name="Television del Este RD" tvg-country="DO" tvg-logo="https://i.imgur.com/mmjbcGr.png" group-title="REP. DOMINICANA | Noticias",Television del Este RD
+#EXTINF:-1 tvg-id="TelevisiondelEste.do" tvg-name="Television del Este RD" tvg-country="DO" tvg-logo="https://i.imgur.com/mmjbcGr.png" group-title="DOMINICAN REPUBLIC | News",Television del Este RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AdoramTV.do" tvg-name="Adoram TV" tvg-country="DO" tvg-logo="https://i.imgur.com/uU01KHz.png" group-title="REP. DOMINICANA | Religioso",Adoram TV
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
-#EXTINF:-1 tvg-id="ElPuertoTV.do" tvg-name="El PuertoTV" tvg-country="DO" tvg-logo="https://i.imgur.com/FnshExB.jpg" group-title="REP. DOMINICANA | Religioso",El PuertoTV
+#EXTINF:-1 tvg-id="ElPuertoTV.do" tvg-name="El PuertoTV" tvg-country="DO" tvg-logo="https://i.imgur.com/FnshExB.jpg" group-title="DOMINICAN REPUBLIC | Religious",El PuertoTV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
-#EXTINF:-1 tvg-id="LaVozdeJesusHD.do" tvg-name="La Voz De Jesus RD" tvg-country="DO" tvg-logo="https://gia.tv/streams/pstream/208429.png" group-title="REP. DOMINICANA | Religioso",La Voz De Jesus RD
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
-#EXTINF:-1 tvg-id="LaVozdeMaria.do" tvg-name="La Voz De Maria RD" tvg-country="DO" tvg-logo="https://i.imgur.com/Zv8CxZX.png" group-title="REP. DOMINICANA | Religioso",La Voz De Maria RD
+#EXTINF:-1 tvg-id="LaVozdeMaria.do" tvg-name="La Voz De Maria RD" tvg-country="DO" tvg-logo="https://i.imgur.com/Zv8CxZX.png" group-title="DOMINICAN REPUBLIC | Religious",La Voz De Maria RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
-#EXTINF:-1 tvg-id="TeleBendicion.do@SD" tvg-name="TeleBendicion" tvg-country="DO" tvg-logo="https://i.imgur.com/nh4sNVI.png" group-title="REP. DOMINICANA | Religioso",TeleBendicion
+#EXTINF:-1 tvg-id="TeleBendicion.do@SD" tvg-name="TeleBendicion" tvg-country="DO" tvg-logo="https://i.imgur.com/nh4sNVI.png" group-title="DOMINICAN REPUBLIC | Religious",TeleBendicion
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8
-#EXTINF:-1 tvg-id="TVLuz.do" tvg-name="TV Luz RD" tvg-country="DO" tvg-logo="https://i.imgur.com/FZUQ2WP.png" group-title="REP. DOMINICANA | Religioso",TV Luz RD
+#EXTINF:-1 tvg-id="TVLuz.do" tvg-name="TV Luz RD" tvg-country="DO" tvg-logo="https://i.imgur.com/FZUQ2WP.png" group-title="DOMINICAN REPUBLIC | Religious",TV Luz RD
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8
-#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-name="Xtrema Cartoons" tvg-country="AR" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="ARGENTINA | Animación",Xtrema Cartoons
+#EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-name="CDN Deportes" tvg-country="DO" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="DOMINICAN REPUBLIC | Sports",CDN Deportes
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://hls.tvabierta.net/hls/036.m3u8
+#EXTINF:-1 tvg-id="ColimdoTV.do" tvg-name="Colimdo TV" tvg-country="DO" tvg-logo="https://i.imgur.com/ZeUgLCa.png" group-title="DOMINICAN REPUBLIC | Sports",Colimdo TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-name="Xtrema Cartoons" tvg-country="AR" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="ARGENTINA | Animation",Xtrema Cartoons
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal5TVChepes.ar" tvg-name="Canal 5 TV Chepes" tvg-country="AR" tvg-logo="https://i.imgur.com/AzEqroq.png" group-title="ARGENTINA | Cine",Canal 5 TV Chepes
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
-#EXTINF:-1 tvg-id="CiudadMagica.ar" tvg-name="Ciudad Magica" tvg-country="AR" tvg-logo="https://i.imgur.com/HJkSz2U.png" group-title="ARGENTINA | Cine",Ciudad Magica
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
-#EXTINF:-1 tvg-id="NeoTV.ar" tvg-name="Neo TV" tvg-country="AR" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="ARGENTINA | Cine",Neo TV
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 tvg-id="Telecreativa.ar" tvg-name="Telecreativa" tvg-country="AR" tvg-logo="https://i.imgur.com/PjlAB6x.jpg" group-title="ARGENTINA | Cine",Telecreativa
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://panel.host-live.com:19360/8012/8012.m3u8
-#EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-name="Xtrema Accion" tvg-country="AR" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="ARGENTINA | Cine",Xtrema Accion
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaCineClasico.ar" tvg-name="Xtrema Cine Clasico" tvg-country="AR" tvg-logo="https://i.imgur.com/j91M4Yf.png" group-title="ARGENTINA | Cine",Xtrema Cine Clasico
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalPulpoTV.ar" tvg-name="Canal Pulpo TV" tvg-country="AR" tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" group-title="ARGENTINA | Entretenimiento",Canal Pulpo TV
+#EXTINF:-1 tvg-id="CanalPulpoTV.ar" tvg-name="Canal Pulpo TV" tvg-country="AR" tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" group-title="ARGENTINA | Entertainment",Canal Pulpo TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
-#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet South" tvg-country="AR" tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="ARGENTINA | Entretenimiento",El Gourmet South
+#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" tvg-country="AR" tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="ARGENTINA | Entertainment",El Gourmet
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
-#EXTINF:-1 tvg-id="Canal2NexTVRafaela.ar" tvg-name="Canal 2 NexTV" tvg-country="AR" tvg-logo="https://i.imgur.com/hgj3CaR.jpeg" group-title="ARGENTINA | General",Canal 2 NexTV
+#EXTINF:-1 tvg-id="MetroTV.ar" tvg-name="Metro TV" tvg-country="AR" tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="ARGENTINA | Entertainment",Metro TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1 tvg-id="Canal2NexTVRafaela.ar" tvg-name="Canal Nex TV" tvg-country="AR" tvg-logo="https://i.imgur.com/hgj3CaR.jpeg" group-title="ARGENTINA | General",Canal Nex TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://edge.enhdtv.com/nexthd/index.m3u8
+#EXTINF:-1 tvg-id="NeoxTV.ar" tvg-name="Neox TV" tvg-country="AR" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="ARGENTINA | General",Neox TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
 #EXTINF:-1 tvg-id="UrbanMix.ar" tvg-name="Urban Mix" tvg-country="AR" tvg-logo="https://tvomix.com/Logos/Urbanmix.png" group-title="ARGENTINA | General",Urban Mix
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cloud.tvomix.com/URBANMIX/index.m3u8
-#EXTINF:-1 tvg-id="CumbiaMix.ar" tvg-name="Cumbia Mix" tvg-country="AR" tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" group-title="ARGENTINA | Música",Cumbia Mix
+#EXTINF:-1 tvg-id="Canal5TVChepes.ar" tvg-name="Canal 5 TV" tvg-country="AR" tvg-logo="https://i.imgur.com/AzEqroq.png" group-title="ARGENTINA | Movies",Canal 5 TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
-https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
+#EXTINF:-1 tvg-id="CiudadMagica.ar" tvg-name="Ciudad Magica" tvg-country="AR" tvg-logo="https://i.imgur.com/HJkSz2U.png" group-title="ARGENTINA | Movies",Ciudad Magica
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
+#EXTINF:-1 tvg-id="NeoTV.ar" tvg-name="Neo TV" tvg-country="AR" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="ARGENTINA | Movies",Neo TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-id="Telecreativa.ar" tvg-name="Telecreativa" tvg-country="AR" tvg-logo="https://i.imgur.com/PjlAB6x.jpg" group-title="ARGENTINA | Movies",Telecreativa
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://panel.host-live.com:19360/8012/8012.m3u8
+#EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-name="Xtrema Accion" tvg-country="AR" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="ARGENTINA | Movies",Xtrema Accion
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaCineClasico.ar" tvg-name="Xtrema Cine Clasico" tvg-country="AR" tvg-logo="https://i.imgur.com/j91M4Yf.png" group-title="ARGENTINA | Movies",Xtrema Cine Clasico
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+#EXTINF:-1 tvg-id="CosmosTv.ar" tvg-name="Cosmos Tv" tvg-country="AR" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="ARGENTINA | News",Cosmos Tv
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://canaletaplus.com:3922/live/cosmoslive.m3u8
+#EXTINF:-1 tvg-id="CoralTV.bo" tvg-name="Coral TV" tvg-country="BO" tvg-logo="https://i.ibb.co/xDrc5MD/CORALTv.png" group-title="BOLIVIA | General",Coral TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://tv.mediacp.eu:8081/coraltv/index.m3u8
+#EXTINF:-1 tvg-id="DeltaTV.bo" tvg-name="Delta TV" tvg-country="BO" tvg-logo="https://i.imgur.com/FcciYMD.png" group-title="BOLIVIA | General",Delta TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="F10HD.bo" tvg-name="F10" tvg-country="BO" tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="BOLIVIA | General",F10
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+#EXTINF:-1 tvg-id="FAPTV.bo" tvg-name="FAP TV" tvg-country="BO" tvg-logo="https://i.imgur.com/jZ7g58e.png" group-title="BOLIVIA | General",FAP TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://edge.enhdtv.com/faptv/index.m3u8
 #EXTINF:-1 tvg-id="RedAmericaTV.bo" tvg-name="Red America TV" tvg-country="BO" tvg-logo="https://i.imgur.com/qYNmeDe.png" group-title="BOLIVIA | General",Red America TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
@@ -716,31 +764,47 @@ https://edge.enhdtv.com/redamerica/index.m3u8
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
-#EXTINF:-1 tvg-id="EnerGeek.cl@HD" tvg-name="EnerGeek" tvg-country="CL" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="CHILE | Animación",EnerGeek
+#EXTINF:-1 tvg-id="EnerGeek.cl@HD" tvg-name="EnerGeek" tvg-country="CL" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="CHILE | Animation",EnerGeek
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26
-#EXTINF:-1 tvg-id="EnerGeekFAN.cl@SD" tvg-name="EnerGeek FAN" tvg-country="CL" tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" group-title="CHILE | Animación",EnerGeek FAN
+#EXTINF:-1 tvg-id="EnerGeekFAN.cl@SD" tvg-name="EnerGeek TV" tvg-country="CL" tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" group-title="CHILE | Animation",EnerGeek TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26
-#EXTINF:-1 tvg-id="13Festival.cl" tvg-name="13 Festival" tvg-country="CL" tvg-logo="https://i.imgur.com/Ymk6j5o.png" group-title="CHILE | Música",13 Festival
+#EXTINF:-1 tvg-id="13Festival.cl" tvg-name="13 Festival" tvg-country="CL" tvg-logo="https://i.imgur.com/Ymk6j5o.png" group-title="CHILE | Music",13 Festival
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:-1 tvg-id="MCITelevision.co" tvg-name="MCI Television" tvg-country="CO" tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg" group-title="COLOMBIA | Cine",MCI Television
+#EXTINF:-1 tvg-id="CumbiaMix.ar" tvg-name="Cumbia Mix" tvg-country="CO" tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" group-title="COLOMBIA",Cumbia Mix
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
-https://video.ejeserver.com/live/mcitelevision.m3u8
-#EXTINF:-1 tvg-id="ANCTelevision.co" tvg-name="ANC Television" tvg-country="CO" tvg-logo="https://i.imgur.com/xjTU14t.jpg" group-title="COLOMBIA | Entretenimiento",ANC Television
+https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+#EXTINF:-1 tvg-id="VisionTelevision.mx" tvg-name="Visión Televisión" tvg-country="CO" tvg-logo="https://i.imgur.com/HV5tgcM.png" group-title="COLOMBIA",Visión Televisión
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
+#EXTINF:-1 tvg-id="TeleNostalgia.co" tvg-name="TeleNostalgia" tvg-country="CO" tvg-logo="https://i.imgur.com/WZeMZNy.png" group-title="COLOMBIA | Classic",TeleNostalgia
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+http://38.134.250.110:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="ANCTelevision.co" tvg-name="ANC Television" tvg-country="CO" tvg-logo="https://i.imgur.com/xjTU14t.jpg" group-title="COLOMBIA | Entertainment",ANC Television
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://live.amelbatv.co:81/anctvlive/index.m3u8
-#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" tvg-country="CO" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="COLOMBIA | Entretenimiento",RCN Novelas
+#EXTINF:-1 tvg-id="CanicaTV.co" tvg-name="Canica TV" tvg-country="CO" tvg-logo="https://i.imgur.com/RuQDwTt.jpeg" group-title="COLOMBIA | Entertainment",Canica TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-name="RCN Mas" tvg-country="CO" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="COLOMBIA | Entertainment",RCN Mas
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+http://45.226.205.96:48000/play/a0af/index.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" tvg-country="CO" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="COLOMBIA | Entertainment",RCN Novelas
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TeveColombia.co" tvg-name="TeveColombia" tvg-country="CO" tvg-logo="https://i.imgur.com/vPwiJTw.png" group-title="COLOMBIA | Entretenimiento",TeveColombia
+#EXTINF:-1 tvg-id="TeveColombia.co" tvg-name="TeveColombia" tvg-country="CO" tvg-logo="https://i.imgur.com/vPwiJTw.png" group-title="COLOMBIA | Entertainment",TeveColombia
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
@@ -748,299 +812,463 @@ https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
-#EXTINF:-1 tvg-id="CostaRicaChannel.cr" tvg-name="Costa Rica Channel" tvg-country="CR" tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="COSTA RICA | Cultura",Costa Rica Channel
+#EXTINF:-1 tvg-id="CanalCineDios.co" tvg-name="Canal Cine Dios" tvg-country="CO" tvg-logo="https://i.imgur.com/S4xqZgV.png" group-title="COLOMBIA | Movies",Canal Cine Dios
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://canal.mediaserver.com.co/live/cinedios.m3u8
+#EXTINF:-1 tvg-id="MCITelevision.co" tvg-name="MCI Television" tvg-country="CO" tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg" group-title="COLOMBIA | Movies",MCI Television
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://video.ejeserver.com/live/mcitelevision.m3u8
+#EXTINF:-1 tvg-id="CostaRicaChannel.cr" tvg-name="Costa Rica Channel" tvg-country="CR" tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="COSTA RICA | Culture",Costa Rica Channel
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://video0.rogohosting.com:19360/8006/8006.m3u8
-#EXTINF:-1 tvg-id="TeleMas.cr" tvg-name="TeleMas" tvg-country="CR" tvg-logo="https://i.imgur.com/5Rc8mA5.png" group-title="COSTA RICA | Entretenimiento",TeleMas
+#EXTINF:-1 tvg-id="TeleMas.cr" tvg-name="TeleMas" tvg-country="CR" tvg-logo="https://i.imgur.com/5Rc8mA5.png" group-title="COSTA RICA | Entertainment",TeleMas
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="ExtremaKidsTV.cr@HD" tvg-name="Extrema Kids TV" tvg-country="CR" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg" group-title="COSTA RICA | Infantil",Extrema Kids TV
+#EXTINF:-1 tvg-id="360RFTV.cr" tvg-name="360 RFTV" tvg-country="CR" tvg-logo="https://i.imgur.com/EBtgnxR.png" group-title="COSTA RICA | General",360 RFTV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
+#EXTINF:-1 tvg-id="AntenaSeisTV.cr" tvg-name="Antena Seis TV" tvg-country="CR" tvg-logo="https://i.imgur.com/9Nh2mo9.png" group-title="COSTA RICA | General",Antena Seis TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://video1.azulstream.com:8081/antenaseistv/index.m3u8
+#EXTINF:-1 tvg-id="ExtremaKidsTV.cr@HD" tvg-name="Extrema Kids TV" tvg-country="CR" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg" group-title="COSTA RICA | Kids",Extrema Kids TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
-#EXTINF:-1 tvg-id="VMLatino.cr" tvg-name="VM Latino Costa Rica" tvg-country="CR" tvg-logo="https://graph.facebook.com/vmlatinocr/picture?width=200&height=200" group-title="COSTA RICA | Música",VM Latino Costa Rica
+#EXTINF:-1 tvg-id="VMLatino.cr" tvg-name="VM Latino Costa Rica" tvg-country="CR" tvg-logo="https://graph.facebook.com/vmlatinocr/picture?width=200&height=200" group-title="COSTA RICA | Music",VM Latino Costa Rica
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTINF:-1 tvg-id="TodoNovelas.es@SD" tvg-name="Todo Novelas" tvg-country="ES" tvg-logo="https://i.imgur.com/NuYwGok.png" group-title="ESPAÑA | Series",Todo Novelas
+#EXTINF:-1 tvg-id="PlutoTVTelenovelasClasicas.de" tvg-name="Pluto TV Telenovelas Clásicas" tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/colorLogoPNG.png" group-title="GERMANY | Series",Pluto TV Telenovelas Clásicas
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
-https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
-#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-name="America TeVe USA" tvg-country="US" tvg-logo="https://pbs.twimg.com/profile_images/2067373416173260801/9cUCY5wX_200x200.jpg" group-title="ESTADOS UNIDOS",America TeVe USA
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://live.gideo.video/americateve2/master.m3u8
-#EXTINF:-1 tvg-name="La Mega Mundial USA" tvg-country="US" tvg-logo="https://graph.facebook.com/lamegaworldwide/picture?width=200&height=200" group-title="ESTADOS UNIDOS",La Mega Mundial USA
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://server80.servistreaming.com:3477/stream/play.m3u8
-#EXTINF:-1 tvg-name="Mundo De Series" tvg-country="US" tvg-logo="https://i.imgur.com/a715EaN.jpeg" group-title="ESTADOS UNIDOS",Mundo De Series
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
-#EXTINF:-1 tvg-id="SonicTV.us@SD" tvg-name="Sonic TV" tvg-country="US" tvg-logo="https://i.imgur.com/TKhRlrR.png" group-title="ESTADOS UNIDOS | Animación",Sonic TV
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260
-#EXTINF:-1 tvg-id="Tooncast.us@SD" tvg-name="Tooncast" tvg-country="US" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="ESTADOS UNIDOS | Animación",Tooncast
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-http://38.134.250.110:8000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-name="Cine Estrella" tvg-country="US" tvg-logo="https://d3st1dzbcmlcd.cloudfront.net/CineEstrella/Thumbnail/lg_cineetv-logo.png" group-title="ESTADOS UNIDOS | Cine",Cine Estrella
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="CineRomantico.us@SD" tvg-name="Cine Romantico" tvg-country="US" tvg-logo="https://i.imgur.com/FUrrDrb.png" group-title="ESTADOS UNIDOS | Cine",Cine Romantico
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_channelId=88886011
-#EXTINF:-1 tvg-id="CineSony.us@SD" tvg-name="Cine Sony" tvg-country="US" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="ESTADOS UNIDOS | Cine",Cine Sony
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Maxcine.us@HD" tvg-name="Maxcine" tvg-country="US" tvg-logo="https://gia.tv/streams/pptv/208138.png" group-title="ESTADOS UNIDOS | Cine",Maxcine
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
-#EXTINF:-1 tvg-id="Maxcine2.us@HD" tvg-name="Maxcine 2" tvg-country="US" tvg-logo="https://gia.tv/streams/pptv/209163.png" group-title="ESTADOS UNIDOS | Cine",Maxcine 2
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8
-#EXTINF:-1 tvg-id="MaxcineComedy.us@HD" tvg-name="Maxcine Comedy" tvg-country="US" tvg-logo="https://gia.tv/streams/pptv/208730.png" group-title="ESTADOS UNIDOS | Cine",Maxcine Comedy
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
-#EXTINF:-1 tvg-id="MaxcineFamily.us@HD" tvg-name="Maxcine Family" tvg-country="US" tvg-logo="https://gia.tv/streams/pptv/208817.png" group-title="ESTADOS UNIDOS | Cine",Maxcine Family
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
-#EXTINF:-1 tvg-id="MaxcineKids.us@HD" tvg-name="Maxcine Kids" tvg-country="US" tvg-logo="https://gia.tv/streams/pptv/209909.png" group-title="ESTADOS UNIDOS | Cine",Maxcine Kids
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
-#EXTINF:-1 tvg-id="RuntimeEspanol.us@SD" tvg-name="Runtime Espanol" tvg-country="US" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="ESTADOS UNIDOS | Cine",Runtime Espanol
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
-#EXTINF:-1 tvg-id="WarnerChannel.us@Colombia" tvg-name="Warner Channel" tvg-country="US" tvg-logo="https://i.imgur.com/KNihDmx.png" group-title="ESTADOS UNIDOS | Cine",Warner Channel
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-http://38.134.250.110:8000/play/a029/index.m3u8
-#EXTINF:-1 tvg-id="CameraSmileTV.us" tvg-name="Camera Smile TV" tvg-country="US" tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="ESTADOS UNIDOS | Entretenimiento",Camera Smile TV
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-name="Canela.TV" tvg-country="US" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="ESTADOS UNIDOS | Entretenimiento",Canela.TV
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://d3cx6yargdnl7q.cloudfront.net/canelatv.m3u8
-#EXTINF:-1 tvg-id="EstrellaGames.us" tvg-name="Estrella Games" tvg-country="US" tvg-logo="https://d3st1dzbcmlcd.cloudfront.net/EstrellaGames/Images/estrellagames_logo.png" group-title="ESTADOS UNIDOS | Entretenimiento",Estrella Games
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://amg00567-estrellamedia-amg00567c1-lg-us-809.playouts.now.amagi.tv/playlist/amg00567-estrellamediafast-estrellagames-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" tvg-country="US" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="ESTADOS UNIDOS | Entretenimiento",Estrella TV
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RevryLatinX.us" tvg-name="Revry LatinX" tvg-country="US" tvg-logo="https://i.imgur.com/o08mHvB.jpeg" group-title="ESTADOS UNIDOS | Entretenimiento",Revry LatinX
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" tvg-country="US" tvg-logo="https://i.imgur.com/fuzmyky.png" group-title="ESTADOS UNIDOS | Entretenimiento",Tastemade
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-name="Tastemade TV" tvg-country="US" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="ESTADOS UNIDOS | Entretenimiento",Tastemade TV
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TLCLatinAmerica.us@Panregional" tvg-name="TLC Latin America" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="ESTADOS UNIDOS | Entretenimiento",TLC Latin America
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-http://38.134.250.110:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="YTATV.us" tvg-name="Tropical Moon TV" tvg-country="US" tvg-logo="https://i.imgur.com/8TMcCdj.jpeg" group-title="ESTADOS UNIDOS | Entretenimiento",Tropical Moon TV
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16185&live=1&avod=0&hls_marker=1&pod_duration=120&position=preroll&app_bundle=com.streamingconnect.viva&app_category=linear_tv&content_channel=salsatv&content_cat=IAB14&content_genre=tv_broadcaster&content_id=mirametv_live&content_network=streamingconnect&content_rating=TV-G&ssai_enabled=1&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&ifa_type=[IFA_TYPE]&min_ad_duration=6&max_ad_duration=120&app_domain=mirametv.live
-#EXTINF:-1 tvg-name="Canela.TV Clasicos" tvg-country="US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/CTV-LG-Logo-clasicos-800x200.png" group-title="ESTADOS UNIDOS | General",Canela.TV Clasicos
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://amg00658-amg00658c9-lg-us-7505.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicosuslt-lgus/playlist.m3u8
-#EXTINF:-1 tvg-name="Canela.TV Hollywood y Mas" tvg-country="US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/CTV-LG-Logo-hollywood-y-mas-800x200.png" group-title="ESTADOS UNIDOS | General",Canela.TV Hollywood y Mas
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://amg00658-amg00658c105-lg-us-7334.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-hollywoodymasus-lgus/playlist.m3u8
-#EXTINF:-1 tvg-name="Canela.TV Narco-Drama" tvg-country="US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/CTV-LG-Logo-Narco+drama-800x200.png" group-title="ESTADOS UNIDOS | General",Canela.TV Narco-Drama
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://amg00658-amg00658c13-lg-us-7400.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-narcodramaltus-lgus/playlist.m3u8
-#EXTINF:-1 tvg-name="Caso Cerrado" tvg-country="US" tvg-logo="https://i.imgur.com/CKYi8LH.jpeg" group-title="ESTADOS UNIDOS | General",Caso Cerrado
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="ExtremaTV.us@SD" tvg-name="Extrema TV" tvg-country="US" tvg-logo="https://i.imgur.com/Z1QVkqu.png" group-title="ESTADOS UNIDOS | General",Extrema TV
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="Galavision.us@EastHD" tvg-name="Galavision East" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/960px-Galavision_Logo_2024.svg.png" group-title="ESTADOS UNIDOS | General",Galavision East
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
-#EXTINF:-1 tvg-id="LoveNatureenEspanol.us@SD" tvg-name="Love Nature en Espanol" tvg-country="US" tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="ESTADOS UNIDOS | General",Love Nature en Espanol
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
-#EXTINF:-1 tvg-id="MegaTV.us" tvg-name="Mega TV WSBS-TV" tvg-country="US" tvg-logo="https://i.imgur.com/MiPdjSX.png" group-title="ESTADOS UNIDOS | General",Mega TV WSBS-TV
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
-#EXTINF:-1 tvg-name="Telemundo Accion" tvg-country="US" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="ESTADOS UNIDOS | General",Telemundo Accion
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="Telemundo.us@EastHD" tvg-name="Telemundo Este" tvg-country="US" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="ESTADOS UNIDOS | General",Telemundo Este
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
-#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo Florida" tvg-country="US" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="ESTADOS UNIDOS | General",Telemundo Florida
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
-#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo PR" tvg-country="US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgRYHIUFIopcShlm7J47iw2Ytrxh_sMWaCgam-UnPjJg&s" group-title="ESTADOS UNIDOS | General",Telemundo PR
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="UniMas.us" tvg-name="UNIMAS" tvg-country="US" tvg-logo="https://i.imgur.com/koc28Rq.png" group-title="ESTADOS UNIDOS | General",UNIMAS
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
-#EXTINF:-1 tvg-id="UniMas.us" tvg-name="UNIMAS 2" tvg-country="US" tvg-logo="https://i.imgur.com/MSSsXly.png" group-title="ESTADOS UNIDOS | General",UNIMAS 2
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
-#EXTINF:-1 tvg-name="Univision 41" tvg-country="US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-y9bHttttQHDj4VY1KvZhDQhF911n7yPoJG1z4FwYDQ&s=10" group-title="ESTADOS UNIDOS | General",Univision 41
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv-audio_eng=128000-video=6000000.m3u8
-#EXTINF:-1 tvg-id="Univision.us@West" tvg-name="Univision Oeste" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="ESTADOS UNIDOS | General",Univision Oeste
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8
-#EXTINF:-1 tvg-id="VisionLatinaNetwork.us@SD" tvg-name="Vision Latina Network" tvg-country="US" tvg-logo="https://i.imgur.com/VgYCskX.png" group-title="ESTADOS UNIDOS | General",Vision Latina Network
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/c1804a4c-ccbf-46e5-87c3-0f8d4a94d9e3/master.m3u8
-#EXTINF:-1 tvg-id="YuGiOhenespanol.us" tvg-name="Yu-Gi-Oh! en español" tvg-country="US" tvg-logo="https://i.imgur.com/VH8RiHg.png" group-title="ESTADOS UNIDOS | General",Yu-Gi-Oh! en español
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-name="Los Pitufo TV" tvg-country="US" tvg-logo="https://i.imgur.com/Q7jIIvy.png" group-title="ESTADOS UNIDOS | Infantil",Los Pitufo TV
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444
-#EXTINF:-1 tvg-id="MiMusicaReggaeton.us@SD" tvg-name="Mi Musica Reggaeton" tvg-country="US" tvg-logo="https://i.imgur.com/MMb9u4u.png" group-title="ESTADOS UNIDOS | Música",Mi Musica Reggaeton
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-http://181.78.12.119:16123/play/ch53/index.m3u8
-#EXTINF:-1 tvg-id="MiMusicaRomantica.us@SD" tvg-name="Mi Musica Romantica" tvg-country="US" tvg-logo="https://i.imgur.com/eIaRv0U.png" group-title="ESTADOS UNIDOS | Música",Mi Musica Romantica
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-http://181.78.12.119:16123/play/ch54/index.m3u8
-#EXTINF:-1 tvg-id="MiMusicaSalsa.us@SD" tvg-name="Mi Musica Salsa" tvg-country="US" tvg-logo="https://i.imgur.com/sT91t83.png" group-title="ESTADOS UNIDOS | Música",Mi Musica Salsa
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-http://181.78.12.119:16123/play/ch55/index.m3u8
-#EXTINF:-1 tvg-id="XITENuevoLatino.us" tvg-name="XITE Nuevo Latino" tvg-country="US" tvg-logo="https://i.imgur.com/2qyl2y3.png" group-title="ESTADOS UNIDOS | Música",XITE Nuevo Latino
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
-#EXTINF:-1 tvg-id="XITESiempreLatino.us" tvg-name="XITE Siempre Latino" tvg-country="US" tvg-logo="https://i.imgur.com/bwmIEgG.png" group-title="ESTADOS UNIDOS | Música",XITE Siempre Latino
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
-#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN en Español" tvg-country="US" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/47f99fa1872d0b6c8d1c562b94bfeb31.webp" group-title="ESTADOS UNIDOS | Noticias",CNN en Español
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-name="Telemundo Noticias" tvg-country="US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYUtt70u2ECQM6Osh8I0lMWcTQLMoYfPtDGS3exftwtA&s=10" group-title="ESTADOS UNIDOS | Noticias",Telemundo Noticias
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-name="Univision 24-7" tvg-country="US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaLZqDj6dr1Jw_Jgpc4PvVt5blbaSbsVXpwisR7Hlr9A&s=10" group-title="ESTADOS UNIDOS | Noticias",Univision 24-7
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-name="Corazón TV" tvg-country="US" tvg-logo="https://i.imgur.com/Iz1NGpF.jpeg" group-title="ESTADOS UNIDOS | Series",Corazón TV
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
-#EXTINF:-1 tvg-id="TheBobRossChannel.us" tvg-name="The Bob Ross Channel" tvg-country="US" tvg-logo="http://img.platform.wurl.dev/channel/1844/lg/6aad68/LG-Logo-PNG-100x100_v1.png" group-title="ESTADOS UNIDOS | Series",The Bob Ross Channel
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://wurlcineverse.global.transmit.live/hls/678862e6ce42a042c23acdfd/v1/cinedigm_entertainment_corp_thebobrosschannel_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-name="Classic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj6g1Q60DAhc8_rCBHrgfjh-HZdTU_0lrA_v7hpRSImg&s=10" group-title="LATINOAMÉRICA | Cine",Classic
+https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
+#EXTINF:-1 tvg-name="Classic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj6g1Q60DAhc8_rCBHrgfjh-HZdTU_0lrA_v7hpRSImg&s=10" group-title="LATIN AMERICA | Movies",Classic
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8
-#EXTINF:-1 tvg-id="Filmex.mx" tvg-name="Filmex" tvg-country="MX" tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="MÉXICO | Cine",Filmex
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-name="Filmex Clásico" tvg-country="MX" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="MÉXICO | Cine",Filmex Clásico
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-name="Azteca Internacional" tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="MÉXICO | Entretenimiento",Azteca Internacional
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-name="Azteca Internacional" tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="MEXICO | Entertainment",Azteca Internacional
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-name="El Chavo TV" tvg-country="MX" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="MÉXICO | Infantil",El Chavo TV
+#EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-name="El Chavo TV" tvg-country="MX" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="MEXICO | Kids",El Chavo TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 tvg-id="ConectaTV.mx" tvg-name="Conecta TV" tvg-country="MX" tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="MÉXICO | Música",Conecta TV
+#EXTINF:-1 tvg-id="Filmex.mx" tvg-name="Filmex" tvg-country="MX" tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="MEXICO | Movies",Filmex
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-name="Filmex Clásico" tvg-country="MX" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="MEXICO | Movies",Filmex Clásico
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PopcornCentral.mx" tvg-name="Popcorn Central" tvg-country="MX" tvg-logo="https://i.imgur.com/ULGVjyC.png" group-title="MEXICO | Movies",Popcorn Central
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
+#EXTINF:-1 tvg-id="ConectaTV.mx" tvg-name="Conecta TV" tvg-country="MX" tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="MEXICO | Music",Conecta TV
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
-#EXTINF:-1 tvg-id="VisionTelevision.mx" tvg-name="Visión Televisión" tvg-country="MX" tvg-logo="https://i.imgur.com/HV5tgcM.png" group-title="MÉXICO | Música",Visión Televisión
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-https://cloudvideo.servers10.com:8081/8016/index.m3u8
-#EXTINF:-1 tvg-id="TlnovelasMexico.mx@SD" tvg-name="Tlnovelas" tvg-country="MX" tvg-logo="https://i.imgur.com/1vae2RG.png" group-title="MÉXICO | Series",Tlnovelas
+#EXTINF:-1 tvg-id="TlnovelasMexico.mx@SD" tvg-name="Tlnovelas" tvg-country="MX" tvg-logo="https://i.imgur.com/1vae2RG.png" group-title="MEXICO | Series",Tlnovelas
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 http://167.249.23.102:8000/play/a0g8/index.m3u8
-#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina Perú" tvg-country="PE" tvg-logo="https://i.imgur.com/CZIxiFH.png" group-title="PERÚ | General",Latina Perú
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina Perú" tvg-country="PE" tvg-logo="https://i.imgur.com/CZIxiFH.png" group-title="PERU | General",Latina Perú
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Telenorte.pr" tvg-name="Telenorte" tvg-country="PR" tvg-logo="https://i.imgur.com/LCiYFrh.jpg" group-title="PUERTO RICO | General",Telenorte
+#EXTINF:-1 tvg-id="LatinaClasicos.pe" tvg-name="Latina Clásicos" tvg-country="PE" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="PERU | Series",Latina Clásicos
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
-https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleOnce.pr" tvg-name="TeleOnce" tvg-country="PR" tvg-logo="https://i.imgur.com/Crt3P4N.png" group-title="PUERTO RICO | General",TeleOnce
+https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="WXWZLD231.pr" tvg-name="Mas TV PR" tvg-country="PR" tvg-logo="https://i.imgur.com/rjmGc9p.png" group-title="PUERTO RICO | General",Mas TV PR
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleOnce.pr" tvg-name="TeleOnce PR" tvg-country="PR" tvg-logo="https://i.imgur.com/Crt3P4N.png" group-title="PUERTO RICO | General",TeleOnce PR
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenorte.pr" tvg-name="The Retro Channel PR" tvg-country="PR" tvg-logo="https://i.imgur.com/MUkyd0R.jpeg" group-title="PUERTO RICO | General",The Retro Channel PR
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
 #EXTINF:-1 tvg-id="WAPATV41.pr" tvg-name="WAPA+" tvg-country="PR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUp3bk6l1f_wqDxbi1mk23PsBGM5XjWHfGhg&s" group-title="PUERTO RICO | General",WAPA+
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://d15svg0m77868y.cloudfront.net/v1/hemisphere_wapaplus_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="WXWZLD231.pr" tvg-name="WXWZ-LD 23.1" tvg-country="PR" tvg-logo="https://i.imgur.com/rjmGc9p.png" group-title="PUERTO RICO | General",WXWZ-LD 23.1
+#EXTINF:-1 tvg-name="Hechiceras" tvg-country="ES" tvg-logo="https://i.imgur.com/edqCQsX.jpeg" group-title="SPAIN | General",Hechiceras
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
-https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
-#EXTINF:-1 tvg-id="MrBeanAnimated.uk@ES" tvg-name="Mr Bean Animated ES" tvg-country="GB" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="REINO UNIDO | Infantil",Mr Bean Animated ES
+https://jmp2.uk/plu-67f95fa76b11614ab0caaef3.m3u8
+#EXTINF:-1 tvg-name="La Familia del Barrio" tvg-country="ES" tvg-logo="https://i.imgur.com/34KLZwh.jpeg" group-title="SPAIN | General",La Familia del Barrio
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
-https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-name="Kanal D Drama" tvg-country="TR" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="TURQUÍA | Entretenimiento",Kanal D Drama
+https://jmp2.uk/plu-668c566d08d5490008075948.m3u8
+#EXTINF:-1 tvg-name="Mi Bella Genio" tvg-country="ES" tvg-logo="https://i.imgur.com/wYjjHjm.jpeg" group-title="SPAIN | General",Mi Bella Genio
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8
+#EXTINF:-1 tvg-name="Pokémon en Español" tvg-country="ES" tvg-logo="https://i.imgur.com/VBwulRC.jpeg" group-title="SPAIN | General",Pokémon en Español
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-69e6be40fde57cd5ba562b29.m3u8
+#EXTINF:-1 tvg-name="Popeye" tvg-country="ES" tvg-logo="https://i.imgur.com/VUGx43P.png" group-title="SPAIN | General",Popeye
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
+#EXTINF:-1 tvg-name="Star Trek en Español" tvg-country="ES" tvg-logo="https://i.imgur.com/BDzPQjl.png" group-title="SPAIN | General",Star Trek en Español
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-6049295e7dcef800073c2499.m3u8
+#EXTINF:-1 tvg-id="TodoNovelas.es@SD" tvg-name="Todo Novelas" tvg-country="ES" tvg-logo="https://i.imgur.com/NuYwGok.png" group-title="SPAIN | Series",Todo Novelas
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
+#EXTINF:-1 tvg-name="Novelas Turcas" tvg-country="TR" tvg-logo="https://i.imgur.com/IlxsnkV.jpeg" group-title="TÜRKIYE",Novelas Turcas
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://d3p1t3yzbr6q5d.cloudfront.net/Novelas_Turcas.m3u8
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-name="Kanal D Drama" tvg-country="TR" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="TÜRKIYE | Entertainment",Kanal D Drama
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-id="MAXAnime.ve@SD" tvg-name="MAX Anime" tvg-country="VE" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="VENEZUELA | Animación",MAX Anime
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk@ES" tvg-name="Mr Bean" tvg-country="GB" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="UNITED KINGDOM | Kids",Mr Bean
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+#EXTINF:-1 tvg-id="LasTortugasNinja.us" tvg-name="Las Tortugas Ninja" tvg-country="US" tvg-logo="https://i.imgur.com/urJdNc9.png" group-title="UNITED STATES | Animation",Las Tortugas Ninja
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
+#EXTINF:-1 tvg-id="SonicTV.us@SD" tvg-name="Sonic TV" tvg-country="US" tvg-logo="https://i.imgur.com/TKhRlrR.png" group-title="UNITED STATES | Animation",Sonic TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260
+#EXTINF:-1 tvg-id="Tooncast.us@SD" tvg-name="Tooncast" tvg-country="US" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="UNITED STATES | Animation",Tooncast
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+http://38.134.250.110:8000/play/a01t/index.m3u8
+#EXTINF:-1 tvg-id="MacGyver.us" tvg-name="MacGyver" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="UNITED STATES | Classic",MacGyver
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-name="Canela.TV" tvg-country="US" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="UNITED STATES | Entertainment",Canela.TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://d3cx6yargdnl7q.cloudfront.net/canelatv.m3u8
+#EXTINF:-1 tvg-id="EstrellaGames.us" tvg-name="Estrella Games" tvg-country="US" tvg-logo="https://d3st1dzbcmlcd.cloudfront.net/EstrellaGames/Images/estrellagames_logo.png" group-title="UNITED STATES | Entertainment",Estrella Games
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://amg00567-estrellamedia-amg00567c1-lg-us-809.playouts.now.amagi.tv/playlist/amg00567-estrellamediafast-estrellagames-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" tvg-country="US" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="UNITED STATES | Entertainment",Estrella TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RevryLatinX.us" tvg-name="Revry LatinX" tvg-country="US" tvg-logo="https://i.imgur.com/o08mHvB.jpeg" group-title="UNITED STATES | Entertainment",Revry LatinX
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="CameraSmileTV.us" tvg-name="Smile TV" tvg-country="US" tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="UNITED STATES | Entertainment",Smile TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-name="Tastemade TV" tvg-country="US" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="UNITED STATES | Entertainment",Tastemade TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TLCLatinAmerica.us@Panregional" tvg-name="TLC Latino" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="UNITED STATES | Entertainment",TLC Latino
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+http://38.134.250.110:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="YTATV.us" tvg-name="Tropical Moon TV" tvg-country="US" tvg-logo="https://i.imgur.com/8TMcCdj.jpeg" group-title="UNITED STATES | Entertainment",Tropical Moon TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16185&live=1&avod=0&hls_marker=1&pod_duration=120&position=preroll&app_bundle=com.streamingconnect.viva&app_category=linear_tv&content_channel=salsatv&content_cat=IAB14&content_genre=tv_broadcaster&content_id=mirametv_live&content_network=streamingconnect&content_rating=TV-G&ssai_enabled=1&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&ifa_type=[IFA_TYPE]&min_ad_duration=6&max_ad_duration=120&app_domain=mirametv.live
+#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-name="America TV USA" tvg-country="US" tvg-logo="https://pbs.twimg.com/profile_images/2067373416173260801/9cUCY5wX_200x200.jpg" group-title="UNITED STATES | General",America TV USA
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://live.gideo.video/americateve2/master.m3u8
+#EXTINF:-1 tvg-name="Canela.TV Clasicos" tvg-country="US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/CTV-LG-Logo-clasicos-800x200.png" group-title="UNITED STATES | General",Canela.TV Clasicos
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://amg00658-amg00658c9-lg-us-7505.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicosuslt-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="Canela.TV Drama" tvg-country="US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/CTV-LG-Logo-Narco+drama-800x200.png" group-title="UNITED STATES | General",Canela.TV Drama
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://amg00658-amg00658c13-lg-us-7400.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-narcodramaltus-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="Canela.TV Hollywood" tvg-country="US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/CTV-LG-Logo-hollywood-y-mas-800x200.png" group-title="UNITED STATES | General",Canela.TV Hollywood
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://amg00658-amg00658c105-lg-us-7334.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-hollywoodymasus-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="Caso Cerrado" tvg-country="US" tvg-logo="https://i.imgur.com/CKYi8LH.jpeg" group-title="UNITED STATES | General",Caso Cerrado
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="ExtremaTV.us@SD" tvg-name="Extrema TV" tvg-country="US" tvg-logo="https://i.imgur.com/Z1QVkqu.png" group-title="UNITED STATES | General",Extrema TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us" tvg-name="FOX 5 New York" tvg-country="US" tvg-logo="https://imgx.fubo.tv/station_logos/fox_c.png" group-title="UNITED STATES | General",FOX 5 New York
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Galavision.us@EastHD" tvg-name="Galavision" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/960px-Galavision_Logo_2024.svg.png" group-title="UNITED STATES | General",Galavision
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
+#EXTINF:-1 tvg-name="La Mega" tvg-country="US" tvg-logo="https://graph.facebook.com/lamegaworldwide/picture?width=200&height=200" group-title="UNITED STATES | General",La Mega
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://server80.servistreaming.com:3477/stream/play.m3u8
+#EXTINF:-1 tvg-id="LoveNatureenEspanol.us@SD" tvg-name="Love Nature" tvg-country="US" tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="UNITED STATES | General",Love Nature
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
+#EXTINF:-1 tvg-id="MegaTV.us" tvg-name="Mega TV" tvg-country="US" tvg-logo="https://i.imgur.com/MiPdjSX.png" group-title="UNITED STATES | General",Mega TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHumor.us" tvg-name="Pluto TV Humor" tvg-country="US" tvg-logo="https://i.imgur.com/F7CWMB0.png" group-title="UNITED STATES | General",Pluto TV Humor
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-5e8397936791b30007ebb5a7.m3u8
+#EXTINF:-1 tvg-name="Telemundo 47 NY" tvg-country="US" tvg-logo="https://i.imgur.com/kGsaCeT.jpeg" group-title="UNITED STATES | General",Telemundo 47 NY
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://d2kowtvrzzi7ps.cloudfront.net/11602/88889716/hls/master.m3u8?ads.xumo_channelId=88889716a
+#EXTINF:-1 tvg-name="Telemundo Accion" tvg-country="US" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="UNITED STATES | General",Telemundo Accion
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us@EastHD" tvg-name="Telemundo Este" tvg-country="US" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="UNITED STATES | General",Telemundo Este
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo Florida" tvg-country="US" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="UNITED STATES | General",Telemundo Florida
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo PR" tvg-country="US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgRYHIUFIopcShlm7J47iw2Ytrxh_sMWaCgam-UnPjJg&s" group-title="UNITED STATES | General",Telemundo PR
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="UniMas.us" tvg-name="UNIMAS" tvg-country="US" tvg-logo="https://i.imgur.com/koc28Rq.png" group-title="UNITED STATES | General",UNIMAS
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
+#EXTINF:-1 tvg-id="UniMas.us" tvg-name="UNIMAS 2" tvg-country="US" tvg-logo="https://i.imgur.com/MSSsXly.png" group-title="UNITED STATES | General",UNIMAS 2
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
+#EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="UNITED STATES | General",Univision
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+http://168.228.44.241:9997/play/a09d/index.m3u8
+#EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision 23" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="UNITED STATES | General",Univision 23
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
+#EXTINF:-1 tvg-id="UniMas.us" tvg-name="Univision 41 Nueva York" tvg-country="US" tvg-logo="https://i.imgur.com/M8B9Qwr.jpeg" group-title="UNITED STATES | General",Univision 41 Nueva York
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
+#EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision Este" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="UNITED STATES | General",Univision Este
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8
+#EXTINF:-1 tvg-id="Univision.us@West" tvg-name="Univision Oeste" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="UNITED STATES | General",Univision Oeste
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8
+#EXTINF:-1 tvg-id="VisionLatinaNetwork.us@SD" tvg-name="Vision Latina" tvg-country="US" tvg-logo="https://i.imgur.com/VgYCskX.png" group-title="UNITED STATES | General",Vision Latina
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/c1804a4c-ccbf-46e5-87c3-0f8d4a94d9e3/master.m3u8
+#EXTINF:-1 tvg-id="YuGiOhenespanol.us" tvg-name="Yu-Gi-Oh!" tvg-country="US" tvg-logo="https://i.imgur.com/VH8RiHg.png" group-title="UNITED STATES | General",Yu-Gi-Oh!
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8
+#EXTINF:-1 tvg-id="AvatarLaLeyendadeAang.us" tvg-name="Avatar: La Leyenda de Aang" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png" group-title="UNITED STATES | Kids",Avatar: La Leyenda de Aang
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
+#EXTINF:-1 tvg-id="GarfieldandFriends.us" tvg-name="Garfield y sus Amigos" tvg-country="US" tvg-logo="https://i.imgur.com/evzfe9C.png" group-title="UNITED STATES | Kids",Garfield y sus Amigos
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-60faf9ddfcc1f200070a5932.m3u8
+#EXTINF:-1 tvg-id="HeyArnold.us" tvg-name="Hey Arnold!" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/66c79221b1a34600087e264d/colorLogoPNG.png" group-title="UNITED STATES | Kids",Hey Arnold!
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
+#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-name="Los Pitufo TV" tvg-country="US" tvg-logo="https://i.imgur.com/Q7jIIvy.png" group-title="UNITED STATES | Kids",Los Pitufo TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444
+#EXTINF:-1 tvg-id="NickelodeonClasico.us" tvg-name="Nickelodeon Clásico" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG_1750157294622.png" group-title="UNITED STATES | Kids",Nickelodeon Clásico
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+#EXTINF:-1 tvg-id="Nickelodeonenespanol.us" tvg-name="Nickelodeon en Español" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="UNITED STATES | Kids",Nickelodeon en Español
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+#EXTINF:-1 tvg-id="Rugrats.us" tvg-name="Rugrats" tvg-country="US" tvg-logo="https://i.imgur.com/l5XmvM1.png" group-title="UNITED STATES | Kids",Rugrats
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
+#EXTINF:-1 tvg-id="CineAdrenalina.us" tvg-name="Cine Adrenalina" tvg-country="US" tvg-logo="https://i.imgur.com/njCKaMv.png" group-title="UNITED STATES | Movies",Cine Adrenalina
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
+#EXTINF:-1 tvg-id="CineAmor.us" tvg-name="Cine Amor" tvg-country="US" tvg-logo="https://i.imgur.com/eAS86qH.png" group-title="UNITED STATES | Movies",Cine Amor
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
+#EXTINF:-1 tvg-id="Cineaventura.us" tvg-name="Cine Aventura" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG_1757954279063.png" group-title="UNITED STATES | Movies",Cine Aventura
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineComedia.us" tvg-name="Cine Comedia" tvg-country="US" tvg-logo="https://i.imgur.com/1H1MHb2.png" group-title="UNITED STATES | Movies",Cine Comedia
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
+#EXTINF:-1 tvg-id="Cineenespanol.us" tvg-name="Cine en Español" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png" group-title="UNITED STATES | Movies",Cine en Español
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
+#EXTINF:-1 tvg-name="Cine Estrella" tvg-country="US" tvg-logo="https://d3st1dzbcmlcd.cloudfront.net/CineEstrella/Thumbnail/lg_cineetv-logo.png" group-title="UNITED STATES | Movies",Cine Estrella
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="CinePremiere.us" tvg-name="Cine Premiere" tvg-country="US" tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="UNITED STATES | Movies",Cine Premiere
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
+#EXTINF:-1 tvg-id="CineRomantico.us@SD" tvg-name="Cine Romantico" tvg-country="US" tvg-logo="https://i.imgur.com/FUrrDrb.png" group-title="UNITED STATES | Movies",Cine Romantico
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_channelId=88886011
+#EXTINF:-1 tvg-id="CineSony.us@SD" tvg-name="Cine Sony" tvg-country="US" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="UNITED STATES | Movies",Cine Sony
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Masadrenalina.us" tvg-name="Más Adrenalina" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/687fea9a4fa995eff284a1c8/colorLogoPNG_1755151031497.png" group-title="UNITED STATES | Movies",Más Adrenalina
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-687fea9a4fa995eff284a1c8.m3u8
+#EXTINF:-1 tvg-id="Maxcine.us@HD" tvg-name="Maxcine" tvg-country="US" tvg-logo="https://gia.tv/streams/pptv/208138.png" group-title="UNITED STATES | Movies",Maxcine
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
+#EXTINF:-1 tvg-id="Maxcine2.us@HD" tvg-name="Maxcine 2" tvg-country="US" tvg-logo="https://gia.tv/streams/pptv/209163.png" group-title="UNITED STATES | Movies",Maxcine 2
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8
+#EXTINF:-1 tvg-id="MaxcineComedy.us@HD" tvg-name="Maxcine Comedy" tvg-country="US" tvg-logo="https://gia.tv/streams/pptv/208730.png" group-title="UNITED STATES | Movies",Maxcine Comedy
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
+#EXTINF:-1 tvg-id="MaxcineFamily.us@HD" tvg-name="Maxcine Family" tvg-country="US" tvg-logo="https://gia.tv/streams/pptv/208817.png" group-title="UNITED STATES | Movies",Maxcine Family
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
+#EXTINF:-1 tvg-id="MaxcineKids.us@HD" tvg-name="Maxcine Kids" tvg-country="US" tvg-logo="https://gia.tv/streams/pptv/209909.png" group-title="UNITED STATES | Movies",Maxcine Kids
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
+#EXTINF:-1 tvg-id="RuntimeEspanol.us@SD" tvg-name="Runtime" tvg-country="US" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="UNITED STATES | Movies",Runtime
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.us@Colombia" tvg-name="Warner TV" tvg-country="US" tvg-logo="https://i.imgur.com/KNihDmx.png" group-title="UNITED STATES | Movies",Warner TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+http://38.134.250.110:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="MiMusicaReggaeton.us@SD" tvg-name="Mi Musica Reggaeton" tvg-country="US" tvg-logo="https://i.imgur.com/MMb9u4u.png" group-title="UNITED STATES | Music",Mi Musica Reggaeton
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+http://181.78.12.119:16123/play/ch53/index.m3u8
+#EXTINF:-1 tvg-id="MiMusicaRomantica.us@SD" tvg-name="Mi Musica Romantica" tvg-country="US" tvg-logo="https://i.imgur.com/eIaRv0U.png" group-title="UNITED STATES | Music",Mi Musica Romantica
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+http://181.78.12.119:16123/play/ch54/index.m3u8
+#EXTINF:-1 tvg-id="MiMusicaSalsa.us@SD" tvg-name="Mi Musica Salsa" tvg-country="US" tvg-logo="https://i.imgur.com/sT91t83.png" group-title="UNITED STATES | Music",Mi Musica Salsa
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+http://181.78.12.119:16123/play/ch55/index.m3u8
+#EXTINF:-1 tvg-id="XITENuevoLatino.us" tvg-name="XITE Nuevo" tvg-country="US" tvg-logo="https://i.imgur.com/2qyl2y3.png" group-title="UNITED STATES | Music",XITE Nuevo
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
+#EXTINF:-1 tvg-id="XITESiempreLatino.us" tvg-name="XITE Siempre" tvg-country="US" tvg-logo="https://i.imgur.com/bwmIEgG.png" group-title="UNITED STATES | Music",XITE Siempre
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
+#EXTINF:-1 tvg-id="CBSNewsNewYork.us" tvg-name="CBS News New York" tvg-country="US" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-title="UNITED STATES | News",CBS News New York
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-5dc48170e280c80009a861ab.m3u8
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN en Español" tvg-country="US" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/47f99fa1872d0b6c8d1c562b94bfeb31.webp" group-title="UNITED STATES | News",CNN en Español
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="News12Brooklyn.us" tvg-name="News 12 Brooklyn" tvg-country="US" tvg-logo="https://i.imgur.com/fvcOzzK.png" group-title="UNITED STATES | News",News 12 Brooklyn
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https
+#EXTINF:-1 tvg-id="News12LongIsland.us" tvg-name="News 12 Long Island" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png" group-title="UNITED STATES | News",News 12 Long Island
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://mdc4.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="WNEU.us" tvg-name="Telemundo Noreste" tvg-country="US" tvg-logo="https://i.imgur.com/beMHaD6.png" group-title="UNITED STATES | News",Telemundo Noreste
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://d368vp0qqzvkid.cloudfront.net/11603/88889716/hls/master.m3u8?ads.xumo_channelId=88889716a
+#EXTINF:-1 tvg-name="Telemundo Noticias" tvg-country="US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYUtt70u2ECQM6Osh8I0lMWcTQLMoYfPtDGS3exftwtA&s=10" group-title="UNITED STATES | News",Telemundo Noticias
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-name="Univision 24-7" tvg-country="US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaLZqDj6dr1Jw_Jgpc4PvVt5blbaSbsVXpwisR7Hlr9A&s=10" group-title="UNITED STATES | News",Univision 24-7
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-name="Corazón TV" tvg-country="US" tvg-logo="https://i.imgur.com/Iz1NGpF.jpeg" group-title="UNITED STATES | Series",Corazón TV
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
+#EXTINF:-1 tvg-name="Mundo De Series" tvg-country="US" tvg-logo="https://i.imgur.com/a715EaN.jpeg" group-title="UNITED STATES | Series",Mundo De Series
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
+#EXTINF:-1 tvg-id="PlutoTVNovelas.us" tvg-name="Pluto TV Novelas" tvg-country="US" tvg-logo="https://i.imgur.com/R44LypS.png" group-title="UNITED STATES | Series",Pluto TV Novelas
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSeriesLatinas.us" tvg-name="Pluto TV Series Latinas" tvg-country="US" tvg-logo="https://i.imgur.com/hxl6Ctq.png" group-title="UNITED STATES | Series",Pluto TV Series Latinas
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
+#EXTINF:-1 tvg-id="TelemundoTelenovelasClasicas.us" tvg-name="Telemundo Telenovelas" tvg-country="US" tvg-logo="https://i.imgur.com/9bPcYIN.png" group-title="UNITED STATES | Series",Telemundo Telenovelas
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
+#EXTINF:-1 tvg-id="TheBobRossChannel.us" tvg-name="The Bob Ross" tvg-country="US" tvg-logo="http://img.platform.wurl.dev/channel/1844/lg/6aad68/LG-Logo-PNG-100x100_v1.png" group-title="UNITED STATES | Series",The Bob Ross
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://wurlcineverse.global.transmit.live/hls/678862e6ce42a042c23acdfd/v1/cinedigm_entertainment_corp_thebobrosschannel_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" tvg-country="US" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="UNITED STATES | Sports",TUDN
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 tvg-id="MAXAnime.ve@SD" tvg-name="MAX Anime" tvg-country="VE" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="VENEZUELA | Animation",MAX Anime
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
@@ -1048,7 +1276,11 @@ https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
-#EXTINF:-1 tvg-name="Qué Culpa Tiene Fatmagül" tvg-logo="https://i.imgur.com/9P3Jwjd.jpeg" group-title="INTERNACIONAL | Series",Qué Culpa Tiene Fatmagül
+#EXTINF:-1 tvg-name="NBC 4 New York" tvg-logo="https://i.imgur.com/IuIBs2h.png" group-title="INTERNATIONAL | General",NBC 4 New York
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a
+#EXTINF:-1 tvg-name="Fatmagül" tvg-logo="https://i.imgur.com/9P3Jwjd.jpeg" group-title="INTERNATIONAL | Series",Fatmagül
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 https://d1lnbiqw2cduwy.cloudfront.net/que_culpa_tiene_fatmagul.m3u8
